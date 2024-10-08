@@ -7,7 +7,7 @@ title: "Curriculum Vitae"
 Postdoctoral Researcher  
 Department of Mathematics, Johns Hopkins University
 
-## Academic Positions
+## Employment
 - **August 2024–present:** Postdoctoral Researcher, [Johns Hopkins University](https://www.google.com/search?client=safari&rls=en&q=johns+hopkins+math&ie=UTF-8&oe=UTF-8)
 - **September 2019–July 2024:** Postdoctoral Researcher, [University of Ljubljana](https://www.fmf.uni-lj.si/en/)
 - **August 2018–August 2019:** Postdoctoral Researcher, [University of Illinois at Urbana-Champaign](https://math.illinois.edu)
@@ -39,10 +39,10 @@ _Advisor:_ [Karma Dajani](https://webspace.science.uu.nl/~kraai101/)
 - **HoTTEST Summer School 2022:** Organizer and Lecturer. Online course on homotopy type theory and formalization of mathematics in Agda. July–August 2022, with over 2000 participants. [Link](https://www.uwo.ca/math/faculty/kapulkin/seminars/hottest_summer_school_2022.html)
 - **Introduction to Homotopy Type Theory:** Carnegie Mellon University, 80-518/80-818, Spring 2018. [Course Page](https://www.andrew.cmu.edu/user/erijke/hott/)
 
-## Invited Talks
+## Invited Talks and Lecture Series
 
-- [**Directions and Perspectives in the λ-Calculus, Bologna, Italy, 2024**](https://site.unibo.it/diapason/en/agenda/directions-and-perspectives-in-the-lambda-calculus)
-- [**Interactions of Proof Assistants and Mathematics**, Regensburg, Germany, 2023:**](https://itp-school-2023.github.io) _The agda-unimath Library_ (3 lectures)
+- **Directions and Perspectives in the λ-Calculus, Bologna, Italy, 2024**
+- **Interactions of Proof Assistants and Mathematics**, Regensburg, Germany, 2023:** _The agda-unimath Library_ (3 lectures)
 - **Mathematics in Ljubljana Summer School, Ljubljana, Slovenia, 2023:** _Formalizing Mathematics_
 - **Workshop on Homotopy Type Theory/Univalent Foundations, Vienna, Austria, 2023:** _Enriched Graphs with Applications to Organic Chemistry and Trees_  
 - **Days in Logic, Faro, Portugal, 2022:** _Daily Applications of the Univalence Axiom_ (3 lectures)
