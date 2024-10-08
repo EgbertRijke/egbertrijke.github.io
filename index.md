@@ -23,9 +23,20 @@ I have been part of the Homotopy Type Theory community since its inception. As a
 
 ## Teaching
 
-- **Introduction to proofs.** Johns Hopkins University. Fall semester 2024.
-- **HoTTEST Summer School 2022.** Organizer and Lecturer. Online course on homotopy type theory and formalization of mathematics in Agda. July–August 2022, with over 2000 participants. [Link](https://www.uwo.ca/math/faculty/kapulkin/seminars/hottest_summer_school_2022.html)
+### Johns Hopkins University
+
+- **Elementary number theory.** Spring semester 2025
+- **Introduction to proofs.** Fall semester 2024.
+
+### Carnegie Mellon University
+
 - **Introduction to Homotopy Type Theory.** Carnegie Mellon University, 80-518/80-818, Spring 2018. [Course Page](cmu-intro-to-hott-2018.md)
+
+### Online
+
+- **HoTTEST Summer School 2022.** Online course on homotopy type theory and formalization of mathematics in Agda. July–August 2022. [Summer school website website](https://www.uwo.ca/math/faculty/kapulkin/seminars/hottest_summer_school_2022.html)
+
+  This summer school was organized by [Carlo Angiuli](https://carloangiuli.com), [Dan Christensen](https://jdc.math.uwo.ca), [Martín Hötzel Escardó](https://www.cs.bham.ac.uk/~mhe/), [Chris Kapulkin](https://www.math.uwo.ca/faculty/kapulkin/index.html), [Dan Licata](https://dlicata.wescreates.wesleyan.edu), [Emily Riehl](https://emilyriehl.github.io), and myself to promote diversity within the field of Homotopy Type Theory. With over 2000 participants, it was a huge success.
 
 ## Advising
 
@@ -75,7 +86,7 @@ _Thesis Committee:_ [Jaap van Oosten](https://webspace.science.uu.nl/~ooste110/)
 _Thesis:_ _Dimensional and Topological Properties of Attractors_  
 _Advisor:_ [Karma Dajani](https://webspace.science.uu.nl/~kraai101/)
 
-## Invited Talks and Lecture Series
+## Invited Talks
 
 - TYPES 2024, Copenhagen, Denmark, 2024: _Concrete Univalent Mathematics_
 - Directions and Perspectives in the λ-Calculus, Bologna, Italy, 2024
@@ -83,7 +94,7 @@ _Advisor:_ [Karma Dajani](https://webspace.science.uu.nl/~kraai101/)
 - Univalent Foundations for Daily Applications, Bergen, Norway, 2021: _Univalent Combinatorics_
 - HoTTEST Seminar, Online, 2021: _A Higher Encode-Decode Method_
 
-## Lecture series
+## Invited Lecture Series
 
 - Interactions of Proof Assistants and Mathematics, Regensburg, Germany, 2023: _The agda-unimath Library_ (3 lectures)
 - Mathematics in Ljubljana Summer School, Ljubljana, Slovenia, 2023: _Formalizing Mathematics_
