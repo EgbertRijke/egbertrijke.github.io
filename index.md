@@ -35,7 +35,21 @@ I have been part of the Homotopy Type Theory community since its inception. As a
 - Victor Blanchi. Internship on formalizing _Dirichlet species and the Hasse-Weil zeta function_ in agda-unimath, 2023
 - Éléonore Mangel. Internship on formalizing the _Delooping the sign homomorphism in univalent mathematics_ in agda-unimath, 2022
 
+## Agda-unimath
+
 ## Employment History
+
+### Johns Hopkins University (August 2024-present)
+
+I am currently working as a postdoctoral researcher with Emily Riehl. With Emily, we are studying and formalizing [synthetic higher categories](https://unimath.github.io/agda-unimath/synthetic-category-theory.html), and I am teaching _Introduction to proofs_, and undergraduate course following my friend [Clive Newstead's](https://www.math.cmu.edu/~cnewstea/) book [Infinite descent into pure mathematics](https://infinitedescent.xyz).
+
+### University of Ljubljana (September 2019-July 2024)
+
+After my postdoc in Urbana-Champaign I returned to my academic roots, the University of Ljubljana. In 2011-2012 I had already spent a year here to write my masters thesis on homotopy type theory under Andrej Bauer. Now I returned to write my book, and open up new directions of research within homotopy type theory. As a member of the [Tydiform project](https://tydiform.fmf.uni-lj.si) I took a great interest in [univalent combinatorics](https://unimath.github.io/agda-unimath/univalent-combinatorics.html), which is an approach to combinatorics that takes advantage of the univalence axiom in order to count things up to isomorphism, and I founded the [agda-unimath library](https://unimath.github.io/agda-unimath/HOME.html) there. I have advised several students on topics related to the formalization of mathematics.
+
+### University of Illinois at Urbana-Champaign (August 2018-August 2019)
+
+I did my first postdoctoral fellowship with Dan Grayson and Charles Rezk at the University of Illinois at Urbana-Champaign. During this time I shifted my research interests towards formalization of mathematics, and started with the formalization of the lecture notes for my course _Introduction to Homotopy Type Theory_. I also found a publisher for the course notes, Cambridge University Press. The formalization of these notes would later serve as the foundation of the agda-unimath library.
 
 - **August 2024–present:** Postdoctoral Researcher, [Johns Hopkins University](https://www.google.com/search?client=safari&rls=en&q=johns+hopkins+math&ie=UTF-8&oe=UTF-8)
 - **September 2019–July 2024:** Postdoctoral Researcher, [University of Ljubljana](https://www.fmf.uni-lj.si/en/)
@@ -53,7 +67,7 @@ _Awards:_ Presidential Fellowship Award, 2016
 
 ### MSc in Mathematics (2010–2012)
 **Utrecht University**  
-_Thesis:_ _Homotopy Type Theory_  
+_Thesis:_ [_Homotopy Type Theory_](https://studenttheses.uu.nl/handle/20.500.12932/11704)  
 _Thesis Committee:_ [Jaap van Oosten](https://webspace.science.uu.nl/~ooste110/), [Benno van den Berg](https://staff.fnwi.uva.nl/b.vandenberg3/), [Andrej Bauer](https://www.andrej.com)
 
 ### BSc in Mathematics (2004–2010)
