@@ -40,6 +40,11 @@ _Advisor:_ [Karma Dajani](https://webspace.science.uu.nl/~kraai101/)
 - **Introduction to Homotopy Type Theory:** Carnegie Mellon University, 80-518/80-818, Spring 2018. [Course Page](https://www.andrew.cmu.edu/user/erijke/hott/)
 
 ## Invited Talks
+
+- [**Directions and Perspectives in the λ-Calculus, Bologna, Italy, 2024**](https://site.unibo.it/diapason/en/agenda/directions-and-perspectives-in-the-lambda-calculus)
+- [**Interactions of Proof Assistants and Mathematics**, Regensburg, Germany, 2023:**](https://itp-school-2023.github.io) _The agda-unimath Library_ (3 lectures)
+- **Mathematics in Ljubljana Summer School, Ljubljana, Slovenia, 2023:** _Formalizing Mathematics_
+- **Workshop on Homotopy Type Theory/Univalent Foundations, Vienna, Austria, 2023:** _Enriched Graphs with Applications to Organic Chemistry and Trees_  
 - **Days in Logic, Faro, Portugal, 2022:** _Daily Applications of the Univalence Axiom_ (3 lectures)
 - **Logic and Higher Structures, CIRM, Luminy, France, 2022:** _Daily Applications of the Univalence Axiom_ (3 lectures)
 - **Univalent Foundations for Daily Applications, Bergen, Norway, 2021:** _Univalent Combinatorics_
@@ -59,11 +64,3 @@ _Advisor:_ [Karma Dajani](https://webspace.science.uu.nl/~kraai101/)
 - U. Buchholtz and E. Rijke, _The Cayley-Dickson Construction in Homotopy Type Theory_, Higher Structures, 2017. [arXiv](https://arxiv.org/abs/1610.01134)
 - E. Rijke and B. Spitters, _Sets in Homotopy Type Theory_, Special Issue of Mathematical Structures in Computer Science, 2014. [arXiv](http://arxiv.org/abs/1305.3835)
 - The Univalent Foundations Program, _Homotopy Type Theory: Univalent Foundations of Mathematics_. Institute for Advanced Study, 2013. [Book](http://www.homotopytypetheory.org/book/)
-
----
-
-**Key Improvements:**
-- Made sure that lists use consistent date formats (e.g., "August 2024–present" and "September 2019–July 2024").
-- Standardized titles and proper nouns with capitalization (e.g., "Homotopy Type Theory" and "Daily Applications of the Univalence Axiom").
-- Harmonized punctuation at the end of items (no periods unless necessary for complete sentences).
-- Emphasized titles with italics and used consistent linking for URLs and references.
