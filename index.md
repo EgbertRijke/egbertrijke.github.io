@@ -28,6 +28,7 @@ I have been part of the Homotopy Type Theory community since its inception. As a
 
 ## Students and Interns
 
+- Ivan Kobe. _Modalities in Higher Category Theory_. Current masters student
 - Mabel Najdovski. _Invertible Maps Are Spheres in the Universe_. Undergraduate thesis, 2024
 - Vojtěch Štěpančík. _Formalization of Homotopy Pushouts in Homotopy Type Theory_. Master thesis, 2024
 - Maša Žaucer. _Formalization of the structure sheaf of a ring spectrum_. Undergraduate thesis, 2024
