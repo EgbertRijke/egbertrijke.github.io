@@ -29,8 +29,8 @@ I have been part of the Homotopy Type Theory community since its inception. As a
 ## Students and Interns
 
 - Mabel Najdovski. _Invertible Maps Are Spheres in the Universe_. Undergraduate thesis, 2024
-- Vojtech Stepancik. _Formalization of Homotopy Pushouts in Homotopy Type Theory_. Master thesis, 2024
-- Masa Zaucer. _Formalization of the structure sheaf of a ring spectrum_. Undergraduate thesis, 2024
+- Vojtěch Štěpančík. _Formalization of Homotopy Pushouts in Homotopy Type Theory_. Master thesis, 2024
+- Maša Žaucer. _Formalization of the structure sheaf of a ring spectrum_. Undergraduate thesis, 2024
 - Victor Blanchi. Internship on formalizing _Dirichlet species and the Hasse-Weil zeta function_ in agda-unimath, 2023
 - Eleonore Mangel. Internship on formalizing the _Delooping the sign homomorphism in univalent mathematics_ in agda-unimath, 2022
 
