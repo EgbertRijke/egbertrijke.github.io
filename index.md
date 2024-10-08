@@ -6,7 +6,8 @@ Postdoctoral Researcher
 Department of Mathematics, Johns Hopkins University
 
 ## Books
-- Egbert Rijke. _Introduction to Homotopy Type Theory_. Cambridge University Press, 2023 (To appear). [arXiv](https://arxiv.org/abs/2212.11082)
+
+- Egbert Rijke. _Introduction to Homotopy Type Theory_. Cambridge University Press, 2025 (To appear). [arXiv](https://arxiv.org/abs/2212.11082)
 - Univalent Foundations Program. _Homotopy Type Theory: Univalent Foundations of Mathematics_. Institute for Advanced Study, 2013. [website](https://homotopytypetheory.org/book/)
 
 ## Bio
@@ -16,6 +17,7 @@ I am a postdoctoral researcher in the Department of Mathematics at [Johns Hopkin
 I have been part of the Homotopy Type Theory community since its inception. As a member of the Univalent Foundations Program during the special year on univalent mathematics at the Institute for Advanced Study, I co-authored the book _Homotopy Type Theory: Univalent Foundations of Mathematics_. From 2014 to 2018 I did my PhD under [Steve Awodey](https://awodey.github.io) at Carnegie Mellon University. I have held postdoctoral positions at the University of Illinois at Urbana-Champaign with [Dan Grayson](https://math.illinois.edu/directory/profile/drg) and at the University of Ljubljana with [Andrej Bauer](https://www.andrej.com). I am currently working under [Emily Riehl](https://emilyriehl.github.io) at Johns Hopkins University.
 
 ## Courses
+
 - **HoTTEST Summer School 2022:** Organizer and Lecturer. Online course on homotopy type theory and formalization of mathematics in Agda. July–August 2022, with over 2000 participants. [Link](https://www.uwo.ca/math/faculty/kapulkin/seminars/hottest_summer_school_2022.html)
 - **Introduction to Homotopy Type Theory:** Carnegie Mellon University, 80-518/80-818, Spring 2018. [Course Page](https://www.andrew.cmu.edu/user/erijke/hott/)
 
@@ -60,6 +62,7 @@ _Advisor:_ [Karma Dajani](https://webspace.science.uu.nl/~kraai101/)
 - **Geometry in Modal Homotopy Type Theory, Carnegie Mellon University, Pittsburgh, 2019:** _Reflective Subuniverses and Modalities; Separated Types; Modal Descent_ (3 lectures)
 
 ## Publications
+
 - D. Christensen and E. Rijke, _Characterizations of Modalities and Lex Modalities_, Journal of Pure and Applied Algebra, 2022. [arXiv](https://arxiv.org/abs/2008.03538)
 - F. Cherubini and E. Rijke, _Modal Descent_, Mathematical Structures in Computer Science, 2021. [arXiv](https://arxiv.org/abs/2003.09713)
 - U. Buchholtz and E. Rijke, _The Long Exact Sequence of Homotopy $n$-Groups_, Logical Methods in Computer Science, 2021. [arXiv](https://arxiv.org/abs/1912.08696)
