@@ -76,5 +76,5 @@ _Advisor:_ [Karma Dajani](https://webspace.science.uu.nl/~kraai101/)
 
 ## Contact information
 
-office: Krieger Hall 213
+office: Krieger Hall 213  
 email: [first initial][last name]@[first two initials of employer's name].edu
