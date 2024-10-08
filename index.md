@@ -77,7 +77,6 @@ _Advisor:_ [Karma Dajani](https://webspace.science.uu.nl/~kraai101/)
 - U. Buchholtz and E. Rijke, _The Real Projective Spaces in Homotopy Type Theory_, Logic in Computer Science, 2017. [arXiv](https://arxiv.org/abs/1704.05770)
 - U. Buchholtz and E. Rijke, _The Cayley-Dickson Construction in Homotopy Type Theory_, Higher Structures, 2017. [arXiv](https://arxiv.org/abs/1610.01134)
 - E. Rijke and B. Spitters, _Sets in Homotopy Type Theory_, Special Issue of Mathematical Structures in Computer Science, 2014. [arXiv](http://arxiv.org/abs/1305.3835)
-- The Univalent Foundations Program, _Homotopy Type Theory: Univalent Foundations of Mathematics_. Institute for Advanced Study, 2013. [Book](http://www.homotopytypetheory.org/book/)
 
 ## Contact information
 
