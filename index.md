@@ -26,6 +26,14 @@ I have been part of the Homotopy Type Theory community since its inception. As a
 - **HoTTEST Summer School 2022:** Organizer and Lecturer. Online course on homotopy type theory and formalization of mathematics in Agda. July–August 2022, with over 2000 participants. [Link](https://www.uwo.ca/math/faculty/kapulkin/seminars/hottest_summer_school_2022.html)
 - **Introduction to Homotopy Type Theory:** Carnegie Mellon University, 80-518/80-818, Spring 2018. [Course Page](https://www.andrew.cmu.edu/user/erijke/hott/)
 
+## Students and Interns
+
+- Mabel Najdovski. _Invertible Maps Are Spheres in the Universe_. Undergraduate thesis, 2024
+- Vojtech Stepancik. _Formalization of Homotopy Pushouts in Homotopy Type Theory_. Master thesis, 2024
+- Masa Zaucer. _Formalization of the structure sheaf of a ring spectrum_. Undergraduate thesis, 2024
+- Victor Blanchi. Internship on formalizing _Dirichlet species and the Hasse-Weil zeta function_ in agda-unimath
+- Eleonore Mangel. Internship on formalizing the _Delooping the sign homomorphism in univalent mathematics_ in agda-unimath.
+
 ## Employment History
 
 - **August 2024–present:** Postdoctoral Researcher, [Johns Hopkins University](https://www.google.com/search?client=safari&rls=en&q=johns+hopkins+math&ie=UTF-8&oe=UTF-8)
