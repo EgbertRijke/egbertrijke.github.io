@@ -11,24 +11,40 @@ Pronouns: he/him
 - [mathstodon](https://mathstodon.xyz/@egbertrijke)
 - [*n*Lab](https://ncatlab.org/nlab/show/Egbert+Rijke)
 
+## Publications
+
+- D. Christensen and E. Rijke, _Characterizations of Modalities and Lex Modalities_, Journal of Pure and Applied Algebra, 2022. [arXiv](https://arxiv.org/abs/2008.03538)
+- F. Cherubini and E. Rijke, _Modal Descent_, Mathematical Structures in Computer Science, 2021. [arXiv](https://arxiv.org/abs/2003.09713)
+- U. Buchholtz and E. Rijke, _The Long Exact Sequence of Homotopy n-Groups_, Logical Methods in Computer Science, 2021. [arXiv](https://arxiv.org/abs/1912.08696)
+- D. Christensen, M. Opie, E. Rijke, and L. Scoccola, _Localization in Homotopy Type Theory_, Higher Structures, 2018. [arXiv](https://arxiv.org/abs/1807.04155)
+- E. Rijke, M. Shulman, and B. Spitters, _Modalities in Homotopy Type Theory_, Logical Methods in Computer Science, 2018. [arXiv](https://arxiv.org/abs/1706.07526)
+- U. Buchholtz, F. van Doorn, and E. Rijke, _Higher Groups in Homotopy Type Theory_, Logic in Computer Science, 2018. [arXiv](https://arxiv.org/abs/1802.04315)
+- U. Buchholtz and E. Rijke, _The Real Projective Spaces in Homotopy Type Theory_, Logic in Computer Science, 2017. [arXiv](https://arxiv.org/abs/1704.05770)
+- U. Buchholtz and E. Rijke, _The Cayley-Dickson Construction in Homotopy Type Theory_, Higher Structures, 2017. [arXiv](https://arxiv.org/abs/1610.01134)
+- E. Rijke and B. Spitters, _Sets in Homotopy Type Theory_, Special Issue of Mathematical Structures in Computer Science, 2014. [arXiv](http://arxiv.org/abs/1305.3835)
+
 ## Books
 
 - Egbert Rijke. _Introduction to Homotopy Type Theory_. Cambridge University Press, 2025 (To appear). [arXiv](https://arxiv.org/abs/2212.11082)
 - Univalent Foundations Program. _Homotopy Type Theory: Univalent Foundations of Mathematics_. Institute for Advanced Study, 2013. [website](https://homotopytypetheory.org/book/)
 
-## Bio
+## Invited Lecture Series
 
-I am a postdoctoral researcher in the Department of Mathematics at [Johns Hopkins University](https://mathematics.jhu.edu) in Baltimore, MD. My research focuses on the formalization of mathematics and homotopy type theory. I am the lead developer of the [agda-unimath library](https://unimath.github.io/agda-unimath/), the largest library of formalized mathematics in the Agda proof assistant, and author of the forthcoming book, _Introduction to Homotopy Type Theory_ ([ArXiv](https://arxiv.org/abs/2212.11082)).
+- Interactions of Proof Assistants and Mathematics, Regensburg, Germany, 2023: _The agda-unimath Library_ (3 lectures)
+- Mathematics in Ljubljana Summer School, Ljubljana, Slovenia, 2023: _Formalizing Mathematics_
+- Days in Logic, Faro, Portugal, 2022: _Daily Applications of the Univalence Axiom_ (3 lectures)
+- Logic and Higher Structures, CIRM, Luminy, France, 2022: _Daily Applications of the Univalence Axiom_ (3 lectures)
+- EPIT 2020, France, 2021: _Synthetic Homotopy Theory_ (3 lectures)
+- Homotopy Type Theory Summer School, Carnegie Mellon University, Pittsburgh, 2019: _Synthetic Homotopy Theory_ (3 lectures)
+- Geometry in Modal Homotopy Type Theory, Carnegie Mellon University, Pittsburgh, 2019: _Reflective Subuniverses and Modalities; Separated Types; Modal Descent_ (3 lectures)
 
-I have been part of the Homotopy Type Theory community since its inception. As a member of the Univalent Foundations Program during the special year on univalent mathematics at the Institute for Advanced Study, I co-authored the book _Homotopy Type Theory: Univalent Foundations of Mathematics_. From 2014 to 2018 I did my PhD under [Steve Awodey](https://awodey.github.io) at Carnegie Mellon University. I have held postdoctoral positions at the University of Illinois at Urbana-Champaign with [Dan Grayson](https://math.illinois.edu/directory/profile/drg) and at the University of Ljubljana with [Andrej Bauer](https://www.andrej.com). I am currently working under [Emily Riehl](https://emilyriehl.github.io) at Johns Hopkins University.
+## Invited Talks
 
-## Agda-unimath
-
-The [agda-unimath library](https://unimath.github.io/agda-unimath/) was founded during the _Univalent Foundations For Daily Applications_ meeting organized by [Marc Bezem](https://www.ii.uib.no/~bezem/) and [Bjørn Ian Dundas](https://www4.uib.no/en/find-employees/Bjørn.Ian.Dundas) in Bergen, in November 2021. The formalization for my book _Introduction to Homotopy Type Theory_ had grown substantially., and it contained an up-to-date foundation for univalent mathematics. Therefore I suggested to also formalize the [Symmetry](https://github.com/UniMath/SymmetryBook) book. [Elisabeth Stenholm](https://elisabeth.stenholm.one), [Jonathan Prieto-Cubides](https://jonaprieto.github.io), and [Pierre Cagne](http://www.normalesup.org/~cagne/) joined the cause, and helped transforming the book formalization into a library that could be used effectively for other projects.
-
-It soon became clear that we wanted the library to serve a more general purpose, containing any kind of mathematics from a univalent point of view, and that the best format was that of a formalized wiki. Thus the idea was born to have a one-concept-per-file organization, which to our knowledge was new for formalization, and have each file read like an [*n*Lab page](https://ncatlab.org/nlab/show/HomePage) with additional resources and links included in each page. The agda-unimath project has since grown to a project with over 400K lines of code, over 2000 pages, and over 40 contribibutors. It is the largest library of formalized mathematics of any kind in the Agda proof assistant, including the widely used [standard library](https://github.com/agda/agda-stdlib) and the [cubical agda library](https://github.com/agda/cubical). I remain one of the most active contributors to the library, with over 1200 commits and 800K modifications.
-
-However, far more important is the community that we have been growing. At the start of the agda-unimath project we also created the [Univalent Agda Discord server](https://discord.gg/Zp2e8hYsuX), which hosts discussion forums for all Agda libraries, including the [1Lab](https://1lab.dev), the [cubical agda library](https://github.com/agda/cubical), [TypeTopology](https://github.com/martinescardo/TypeTopology), and the [Agda standard library](https://github.com/agda/agda-stdlib). This is a diverse and welcoming community with a lively discussion and active contributors from all ages and all walks of life. You are very welcome to join too!
+- TYPES 2024, Copenhagen, Denmark, 2024: _Concrete Univalent Mathematics_
+- Directions and Perspectives in the λ-Calculus, Bologna, Italy, 2024
+- Workshop on Homotopy Type Theory/Univalent Foundations, Vienna, Austria, 2023: _Enriched Graphs with Applications to Organic Chemistry and Trees_  
+- Univalent Foundations for Daily Applications, Bergen, Norway, 2021: _Univalent Combinatorics_
+- HoTTEST Seminar, Online, 2021: _A Higher Encode-Decode Method_
 
 ## Teaching
 
@@ -55,6 +71,20 @@ However, far more important is the community that we have been growing. At the s
 - Maša Žaucer. _Formalization of the structure sheaf of a ring spectrum_. Undergraduate thesis, 2024
 - Victor Blanchi. Internship on formalizing _Dirichlet species and the Hasse-Weil zeta function_ in agda-unimath, 2023
 - Éléonore Mangel. Internship on formalizing the _Delooping the sign homomorphism in univalent mathematics_ in agda-unimath, 2022
+
+## Bio
+
+I am a postdoctoral researcher in the Department of Mathematics at [Johns Hopkins University](https://mathematics.jhu.edu) in Baltimore, MD. My research focuses on the formalization of mathematics and homotopy type theory. I am the lead developer of the [agda-unimath library](https://unimath.github.io/agda-unimath/), the largest library of formalized mathematics in the Agda proof assistant, and author of the forthcoming book, _Introduction to Homotopy Type Theory_ ([ArXiv](https://arxiv.org/abs/2212.11082)).
+
+I have been part of the Homotopy Type Theory community since its inception. As a member of the Univalent Foundations Program during the special year on univalent mathematics at the Institute for Advanced Study, I co-authored the book _Homotopy Type Theory: Univalent Foundations of Mathematics_. From 2014 to 2018 I did my PhD under [Steve Awodey](https://awodey.github.io) at Carnegie Mellon University. I have held postdoctoral positions at the University of Illinois at Urbana-Champaign with [Dan Grayson](https://math.illinois.edu/directory/profile/drg) and at the University of Ljubljana with [Andrej Bauer](https://www.andrej.com). I am currently working under [Emily Riehl](https://emilyriehl.github.io) at Johns Hopkins University.
+
+## Agda-unimath
+
+The [agda-unimath library](https://unimath.github.io/agda-unimath/) was founded during the _Univalent Foundations For Daily Applications_ meeting organized by [Marc Bezem](https://www.ii.uib.no/~bezem/) and [Bjørn Ian Dundas](https://www4.uib.no/en/find-employees/Bjørn.Ian.Dundas) in Bergen, in November 2021. The formalization for my book _Introduction to Homotopy Type Theory_ had grown substantially., and it contained an up-to-date foundation for univalent mathematics. Therefore I suggested to also formalize the [Symmetry](https://github.com/UniMath/SymmetryBook) book. [Elisabeth Stenholm](https://elisabeth.stenholm.one), [Jonathan Prieto-Cubides](https://jonaprieto.github.io), and [Pierre Cagne](http://www.normalesup.org/~cagne/) joined the cause, and helped transforming the book formalization into a library that could be used effectively for other projects.
+
+It soon became clear that we wanted the library to serve a more general purpose, containing any kind of mathematics from a univalent point of view, and that the best format was that of a formalized wiki. Thus the idea was born to have a one-concept-per-file organization, which to our knowledge was new for formalization, and have each file read like an [*n*Lab page](https://ncatlab.org/nlab/show/HomePage) with additional resources and links included in each page. The agda-unimath project has since grown to a project with over 400K lines of code, over 2000 pages, and over 40 contribibutors. It is the largest library of formalized mathematics of any kind in the Agda proof assistant, including the widely used [standard library](https://github.com/agda/agda-stdlib) and the [cubical agda library](https://github.com/agda/cubical). I remain one of the most active contributors to the library, with over 1200 commits and 800K modifications.
+
+However, far more important is the community that we have been growing. At the start of the agda-unimath project we also created the [Univalent Agda Discord server](https://discord.gg/Zp2e8hYsuX), which hosts discussion forums for all Agda libraries, including the [1Lab](https://1lab.dev), the [cubical agda library](https://github.com/agda/cubical), [TypeTopology](https://github.com/martinescardo/TypeTopology), and the [Agda standard library](https://github.com/agda/agda-stdlib). This is a diverse and welcoming community with a lively discussion and active contributors from all ages and all walks of life. You are very welcome to join too!
 
 ## Employment History
 
@@ -92,36 +122,6 @@ _Thesis Committee:_ [Jaap van Oosten](https://webspace.science.uu.nl/~ooste110/)
 **Utrecht University**  
 _Thesis:_ _Dimensional and Topological Properties of Attractors_  
 _Advisor:_ [Karma Dajani](https://webspace.science.uu.nl/~kraai101/)
-
-## Invited Talks
-
-- TYPES 2024, Copenhagen, Denmark, 2024: _Concrete Univalent Mathematics_
-- Directions and Perspectives in the λ-Calculus, Bologna, Italy, 2024
-- Workshop on Homotopy Type Theory/Univalent Foundations, Vienna, Austria, 2023: _Enriched Graphs with Applications to Organic Chemistry and Trees_  
-- Univalent Foundations for Daily Applications, Bergen, Norway, 2021: _Univalent Combinatorics_
-- HoTTEST Seminar, Online, 2021: _A Higher Encode-Decode Method_
-
-## Invited Lecture Series
-
-- Interactions of Proof Assistants and Mathematics, Regensburg, Germany, 2023: _The agda-unimath Library_ (3 lectures)
-- Mathematics in Ljubljana Summer School, Ljubljana, Slovenia, 2023: _Formalizing Mathematics_
-- Days in Logic, Faro, Portugal, 2022: _Daily Applications of the Univalence Axiom_ (3 lectures)
-- Logic and Higher Structures, CIRM, Luminy, France, 2022: _Daily Applications of the Univalence Axiom_ (3 lectures)
-- EPIT 2020, France, 2021: _Synthetic Homotopy Theory_ (3 lectures)
-- Homotopy Type Theory Summer School, Carnegie Mellon University, Pittsburgh, 2019: _Synthetic Homotopy Theory_ (3 lectures)
-- Geometry in Modal Homotopy Type Theory, Carnegie Mellon University, Pittsburgh, 2019: _Reflective Subuniverses and Modalities; Separated Types; Modal Descent_ (3 lectures)
-
-## Publications
-
-- D. Christensen and E. Rijke, _Characterizations of Modalities and Lex Modalities_, Journal of Pure and Applied Algebra, 2022. [arXiv](https://arxiv.org/abs/2008.03538)
-- F. Cherubini and E. Rijke, _Modal Descent_, Mathematical Structures in Computer Science, 2021. [arXiv](https://arxiv.org/abs/2003.09713)
-- U. Buchholtz and E. Rijke, _The Long Exact Sequence of Homotopy n-Groups_, Logical Methods in Computer Science, 2021. [arXiv](https://arxiv.org/abs/1912.08696)
-- D. Christensen, M. Opie, E. Rijke, and L. Scoccola, _Localization in Homotopy Type Theory_, Higher Structures, 2018. [arXiv](https://arxiv.org/abs/1807.04155)
-- E. Rijke, M. Shulman, and B. Spitters, _Modalities in Homotopy Type Theory_, Logical Methods in Computer Science, 2018. [arXiv](https://arxiv.org/abs/1706.07526)
-- U. Buchholtz, F. van Doorn, and E. Rijke, _Higher Groups in Homotopy Type Theory_, Logic in Computer Science, 2018. [arXiv](https://arxiv.org/abs/1802.04315)
-- U. Buchholtz and E. Rijke, _The Real Projective Spaces in Homotopy Type Theory_, Logic in Computer Science, 2017. [arXiv](https://arxiv.org/abs/1704.05770)
-- U. Buchholtz and E. Rijke, _The Cayley-Dickson Construction in Homotopy Type Theory_, Higher Structures, 2017. [arXiv](https://arxiv.org/abs/1610.01134)
-- E. Rijke and B. Spitters, _Sets in Homotopy Type Theory_, Special Issue of Mathematical Structures in Computer Science, 2014. [arXiv](http://arxiv.org/abs/1305.3835)
 
 ## Contact information
 
