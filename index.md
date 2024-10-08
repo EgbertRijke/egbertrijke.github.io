@@ -76,6 +76,7 @@ _Advisor:_ [Karma Dajani](https://webspace.science.uu.nl/~kraai101/)
 
 ## Invited Talks and Lecture Series
 
+- TYPES 2024, Copenhagen, Denmark, 2024: _Concrete Univalent Mathematics_
 - Directions and Perspectives in the λ-Calculus, Bologna, Italy, 2024
 - Interactions of Proof Assistants and Mathematics, Regensburg, Germany, 2023: _The agda-unimath Library_ (3 lectures)
 - Mathematics in Ljubljana Summer School, Ljubljana, Slovenia, 2023: _Formalizing Mathematics_
