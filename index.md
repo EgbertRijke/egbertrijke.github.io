@@ -3,7 +3,7 @@ title: "Egbert Rijke's Academic Website"
 ---
 
 Postdoctoral Researcher  
-Department of Mathematics, Johns Hopkins University
+Department of Mathematics, Johns Hopkins University  
 Pronouns: he/him
 
 - [GitHub](https://github.com/EgbertRijke)
