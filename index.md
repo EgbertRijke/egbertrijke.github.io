@@ -51,10 +51,9 @@ After my postdoc in Urbana-Champaign I returned to my academic roots, the Univer
 
 I did my first postdoctoral fellowship with Dan Grayson and Charles Rezk at the University of Illinois at Urbana-Champaign. During this time I shifted my research interests towards formalization of mathematics, and started with the formalization of the lecture notes for my course _Introduction to Homotopy Type Theory_. I also found a publisher for the course notes, Cambridge University Press. The formalization of these notes would later serve as the foundation of the agda-unimath library.
 
-- **August 2024–present:** Postdoctoral Researcher, [Johns Hopkins University](https://www.google.com/search?client=safari&rls=en&q=johns+hopkins+math&ie=UTF-8&oe=UTF-8)
-- **September 2019–July 2024:** Postdoctoral Researcher, [University of Ljubljana](https://www.fmf.uni-lj.si/en/)
-- **August 2018–August 2019:** Postdoctoral Researcher, [University of Illinois at Urbana-Champaign](https://math.illinois.edu)
-- **September 2012–June 2013:** Research Assistant, [Radboud Universiteit Nijmegen](https://www.ru.nl/en/education)
+### Radboud University of Nijmegen (September 2012-June 2013, pre-PhD)
+
+After completing my masters thesis in 2012 I work for one year as research assistant for [Bas Spitters](https://users-cs.au.dk/spitters/) at the Radboud Universiteit of Nijmegen. The approach I took in my masters thesis to informal homotopy type theory had been well received, and we pursued further topics related to higher topos theory and descent. During this year, I also participated in the [Univalent Foundations Program](https://www.ias.edu/math/sp/univalent/goals) at the [Institute for Advanced Study](https://www.ias.edu), even though I didn't have a PhD yet. Here I participated in the writing of the HoTT book, and eventually I would end up becoming Steve Awodey's grad student.
 
 ## Education
 
