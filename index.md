@@ -21,12 +21,13 @@ I am a postdoctoral researcher in the Department of Mathematics at [Johns Hopkin
 
 I have been part of the Homotopy Type Theory community since its inception. As a member of the Univalent Foundations Program during the special year on univalent mathematics at the Institute for Advanced Study, I co-authored the book _Homotopy Type Theory: Univalent Foundations of Mathematics_. From 2014 to 2018 I did my PhD under [Steve Awodey](https://awodey.github.io) at Carnegie Mellon University. I have held postdoctoral positions at the University of Illinois at Urbana-Champaign with [Dan Grayson](https://math.illinois.edu/directory/profile/drg) and at the University of Ljubljana with [Andrej Bauer](https://www.andrej.com). I am currently working under [Emily Riehl](https://emilyriehl.github.io) at Johns Hopkins University.
 
-## Courses
+## Teaching
 
-- **HoTTEST Summer School 2022:** Organizer and Lecturer. Online course on homotopy type theory and formalization of mathematics in Agda. July–August 2022, with over 2000 participants. [Link](https://www.uwo.ca/math/faculty/kapulkin/seminars/hottest_summer_school_2022.html)
-- **Introduction to Homotopy Type Theory:** Carnegie Mellon University, 80-518/80-818, Spring 2018. [Course Page](https://www.andrew.cmu.edu/user/erijke/hott/)
+- **Introduction to proofs.** Johns Hopkins University. Fall semester 2024.
+- **HoTTEST Summer School 2022.** Organizer and Lecturer. Online course on homotopy type theory and formalization of mathematics in Agda. July–August 2022, with over 2000 participants. [Link](https://www.uwo.ca/math/faculty/kapulkin/seminars/hottest_summer_school_2022.html)
+- **Introduction to Homotopy Type Theory.** Carnegie Mellon University, 80-518/80-818, Spring 2018. [Course Page](cmu-intro-to-hott-2018.md)
 
-## Students
+## Advising
 
 - Ivan Kobe. _Modalities in Higher Category Theory_. Current masters student
 - Mabel Najdovski. _Invertible Maps Are Spheres in the Universe_. Undergraduate thesis, 2024
@@ -78,14 +79,17 @@ _Advisor:_ [Karma Dajani](https://webspace.science.uu.nl/~kraai101/)
 
 - TYPES 2024, Copenhagen, Denmark, 2024: _Concrete Univalent Mathematics_
 - Directions and Perspectives in the λ-Calculus, Bologna, Italy, 2024
+- Workshop on Homotopy Type Theory/Univalent Foundations, Vienna, Austria, 2023: _Enriched Graphs with Applications to Organic Chemistry and Trees_  
+- Univalent Foundations for Daily Applications, Bergen, Norway, 2021: _Univalent Combinatorics_
+- HoTTEST Seminar, Online, 2021: _A Higher Encode-Decode Method_
+
+## Lecture series
+
 - Interactions of Proof Assistants and Mathematics, Regensburg, Germany, 2023: _The agda-unimath Library_ (3 lectures)
 - Mathematics in Ljubljana Summer School, Ljubljana, Slovenia, 2023: _Formalizing Mathematics_
-- Workshop on Homotopy Type Theory/Univalent Foundations, Vienna, Austria, 2023: _Enriched Graphs with Applications to Organic Chemistry and Trees_  
 - Days in Logic, Faro, Portugal, 2022: _Daily Applications of the Univalence Axiom_ (3 lectures)
 - Logic and Higher Structures, CIRM, Luminy, France, 2022: _Daily Applications of the Univalence Axiom_ (3 lectures)
-- Univalent Foundations for Daily Applications, Bergen, Norway, 2021: _Univalent Combinatorics_
 - EPIT 2020, France, 2021: _Synthetic Homotopy Theory_ (3 lectures)
-- HoTTEST Seminar, Online, 2021: _A Higher Encode-Decode Method_
 - Homotopy Type Theory Summer School, Carnegie Mellon University, Pittsburgh, 2019: _Synthetic Homotopy Theory_ (3 lectures)
 - Geometry in Modal Homotopy Type Theory, Carnegie Mellon University, Pittsburgh, 2019: _Reflective Subuniverses and Modalities; Separated Types; Modal Descent_ (3 lectures)
 
