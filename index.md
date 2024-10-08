@@ -125,4 +125,4 @@ _Advisor:_ [Karma Dajani](https://webspace.science.uu.nl/~kraai101/)
 ## Contact information
 
 office: Krieger Hall 213  
-email: [first initial][last name][that symbol in every email address][first two initials of employer's name][a punctuation symbol][abbreviation for Earthworms Dig Underground]
+email: [first initial][last name][that symbol in every email address][first two initials of employer's name][a punctuation symbol][abbreviation for equivariant directed univalence]
