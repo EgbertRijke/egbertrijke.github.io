@@ -8,7 +8,7 @@ Department of Mathematics, Johns Hopkins University
 - [GitHub](https://github.com/EgbertRijke)
 - [X](https://x.com/egbertrijke)
 - [mathstodon](https://mathstodon.xyz/@egbertrijke)
-- [_n_Lab](https://ncatlab.org/nlab/show/Egbert+Rijke)
+- [*n*Lab](https://ncatlab.org/nlab/show/Egbert+Rijke)
 
 ## Books
 
