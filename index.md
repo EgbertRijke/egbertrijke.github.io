@@ -54,17 +54,17 @@ _Advisor:_ [Karma Dajani](https://webspace.science.uu.nl/~kraai101/)
 
 ## Invited Talks and Lecture Series
 
-- **Directions and Perspectives in the λ-Calculus, Bologna, Italy, 2024**
-- **Interactions of Proof Assistants and Mathematics**, Regensburg, Germany, 2023:** _The agda-unimath Library_ (3 lectures)
-- **Mathematics in Ljubljana Summer School, Ljubljana, Slovenia, 2023:** _Formalizing Mathematics_
-- **Workshop on Homotopy Type Theory/Univalent Foundations, Vienna, Austria, 2023:** _Enriched Graphs with Applications to Organic Chemistry and Trees_  
-- **Days in Logic, Faro, Portugal, 2022:** _Daily Applications of the Univalence Axiom_ (3 lectures)
-- **Logic and Higher Structures, CIRM, Luminy, France, 2022:** _Daily Applications of the Univalence Axiom_ (3 lectures)
-- **Univalent Foundations for Daily Applications, Bergen, Norway, 2021:** _Univalent Combinatorics_
-- **EPIT 2020, France, 2021:** _Synthetic Homotopy Theory_ (3 lectures)
-- **HoTTEST Seminar, Online, 2021:** _A Higher Encode-Decode Method_
-- **Homotopy Type Theory Summer School, Carnegie Mellon University, Pittsburgh, 2019:** _Synthetic Homotopy Theory_ (3 lectures)
-- **Geometry in Modal Homotopy Type Theory, Carnegie Mellon University, Pittsburgh, 2019:** _Reflective Subuniverses and Modalities; Separated Types; Modal Descent_ (3 lectures)
+- Directions and Perspectives in the λ-Calculus, Bologna, Italy, 2024
+- Interactions of Proof Assistants and Mathematics, Regensburg, Germany, 2023: _The agda-unimath Library_ (3 lectures)
+- Mathematics in Ljubljana Summer School, Ljubljana, Slovenia, 2023: _Formalizing Mathematics_
+- Workshop on Homotopy Type Theory/Univalent Foundations, Vienna, Austria, 2023: _Enriched Graphs with Applications to Organic Chemistry and Trees_  
+- Days in Logic, Faro, Portugal, 2022: _Daily Applications of the Univalence Axiom_ (3 lectures)
+- Logic and Higher Structures, CIRM, Luminy, France, 2022: _Daily Applications of the Univalence Axiom_ (3 lectures)
+- Univalent Foundations for Daily Applications, Bergen, Norway, 2021: _Univalent Combinatorics_
+- EPIT 2020, France, 2021: _Synthetic Homotopy Theory_ (3 lectures)
+- HoTTEST Seminar, Online, 2021: _A Higher Encode-Decode Method_
+- Homotopy Type Theory Summer School, Carnegie Mellon University, Pittsburgh, 2019: _Synthetic Homotopy Theory_ (3 lectures)
+- Geometry in Modal Homotopy Type Theory, Carnegie Mellon University, Pittsburgh, 2019: _Reflective Subuniverses and Modalities; Separated Types; Modal Descent_ (3 lectures)
 
 ## Publications
 
