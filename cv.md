@@ -5,34 +5,33 @@ title: "Curriculum Vitae"
 # Curriculum Vitae
 
 **Egbert Rijke**  
-Postdoctoral Researcher, Department of Mathematics  
-Johns Hopkins University
+Postdoctoral Researcher
+Department of Mathematics, Johns Hopkins University
 
 ## Academic Positions
-- August 2024-present: Postdoctoral researcher at Johns Hopkins University.
-- September 2019–July 2024: Postdoc, University of Ljubljana, Slovenia.
-- August 2018–August 2019: Postdoc, University of Illinois at Urbana-Champaign.
-- September 2012–June 2013: Research Assistant, Radboud Universiteit Nijmegen, the Netherlands.
+- August 2024-present: Postdoctoral researcher [Johns Hopkins University](https://www.google.com/search?client=safari&rls=en&q=johns+hopkins+math&ie=UTF-8&oe=UTF-8).
+- September 2019–July 2024: Postdoctoral researcher at the [University of Ljubljana](https://www.fmf.uni-lj.si/en/).
+- August 2018–August 2019: Postdoctoral researcher, [University of Illinois at Urbana-Champaign](https://math.illinois.edu).
+- September 2012–June 2013: Research Assistant at the [Radboud Universiteit Nijmegen](https://www.ru.nl/en/education).
 
 ## Education
 
 ### PhD in Pure and Applied Logic (2014–2018)
 Carnegie Mellon University  
-_Advisor:_ Steve Awodey  
-_Thesis:_ [_Classifying types_](https://arxiv.org/abs/1906.09435)  
-_Thesis Committee:_ Steve Awodey, Jeremy Avigad, Ulrik Buchholtz, Michael Shulman  
+_Advisor:_ [Steve Awodey](https://awodey.github.io)
+_Thesis:_ Classifying types ([arXiv](https://arxiv.org/abs/1906.09435))
+_Thesis Committee:_ Steve Awodey, [Jeremy Avigad](https://www.andrew.cmu.edu/user/avigad/), [Ulrik Buchholtz](https://ulrikbuchholtz.dk), [Michael Shulman](https://home.sandiego.edu/~shulman/)
 _Awards:_ Presidential Fellowship Award, 2016
 
 ### MSc in Mathematics (2010–2012)
 Utrecht University  
 _Thesis:_ _Homotopy type theory_  
-_Thesis Committee:_ Jaap van Oosten, Benno van den Berg, Andrej Bauer
+_Thesis Committee:_ [Jaap van Oosten](https://webspace.science.uu.nl/~ooste110/), [Benno van den Berg](https://staff.fnwi.uva.nl/b.vandenberg3/), [Andrej Bauer](https://www.andrej.com)
 
 ### BSc in Mathematics (2004–2010)
 Utrecht University  
 _Thesis:_ _Dimensional and topological properties of attractors_  
-_Advisor:_ Karma Dajani  
-_Awards:_ Winner of the Landelijke Interuniversitaire Mathematische Olympiade
+_Advisor:_ [Karma Dajani](https://webspace.science.uu.nl/~kraai101/)
 
 ## Books
 - Egbert Rijke. _Introduction to Homotopy Type Theory_. Cambridge University Press, 2023 (To appear). [arXiv](https://arxiv.org/abs/2212.11082)
