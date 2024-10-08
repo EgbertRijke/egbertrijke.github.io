@@ -25,16 +25,16 @@ I have been part of the Homotopy Type Theory community since its inception. As a
 
 ### Johns Hopkins University
 
-- **Elementary number theory.** Spring semester 2025
-- **Introduction to proofs.** Fall semester 2024.
+- _Elementary number theory._ Spring semester 2025
+- _Introduction to proofs._ Fall semester 2024.
 
 ### Carnegie Mellon University
 
-- **Introduction to Homotopy Type Theory.** Carnegie Mellon University, 80-518/80-818, Spring 2018. [Course Page](cmu-intro-to-hott-2018.md)
+- _Introduction to Homotopy Type Theory._ Carnegie Mellon University, 80-518/80-818, Spring 2018. [Course Page](cmu-intro-to-hott-2018.md)
 
 ### Online
 
-- **HoTTEST Summer School 2022.** Online course on homotopy type theory and formalization of mathematics in Agda. July–August 2022. [Summer school website website](https://www.uwo.ca/math/faculty/kapulkin/seminars/hottest_summer_school_2022.html)
+- _HoTTEST Summer School 2022._ Online course on homotopy type theory and formalization of mathematics in Agda. July–August 2022. [Summer school website website](https://www.uwo.ca/math/faculty/kapulkin/seminars/hottest_summer_school_2022.html)
 
   This summer school was organized by [Carlo Angiuli](https://carloangiuli.com), [Dan Christensen](https://jdc.math.uwo.ca), [Martín Hötzel Escardó](https://www.cs.bham.ac.uk/~mhe/), [Chris Kapulkin](https://www.math.uwo.ca/faculty/kapulkin/index.html), [Dan Licata](https://dlicata.wescreates.wesleyan.edu), [Emily Riehl](https://emilyriehl.github.io), and myself to promote diversity within the field of Homotopy Type Theory. With over 2000 participants, it was a huge success.
 
