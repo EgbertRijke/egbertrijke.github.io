@@ -5,6 +5,11 @@ title: "Egbert Rijke's Academic Website"
 Postdoctoral Researcher  
 Department of Mathematics, Johns Hopkins University
 
+- [GitHub](https://github.com/EgbertRijke)
+- [X](https://x.com/egbertrijke)
+- [mathstodon](https://mathstodon.xyz/@egbertrijke)
+- [nLab](https://ncatlab.org/nlab/show/Egbert+Rijke)
+
 ## Books
 
 - Egbert Rijke. _Introduction to Homotopy Type Theory_. Cambridge University Press, 2025 (To appear). [arXiv](https://arxiv.org/abs/2212.11082)
