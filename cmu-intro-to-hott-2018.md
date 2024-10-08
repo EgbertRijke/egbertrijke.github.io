@@ -9,6 +9,8 @@ _Note: This webpage is recovered from the internet archive, as the original cour
 - **Office:** Baker Hall 148
 - **Office Hours:** Mon/Wed 5:00 - 6:00, or by appointment
 
+[Course notes](hott_intro_cmu.pdf)
+
 ---
 
 ## Course Description
