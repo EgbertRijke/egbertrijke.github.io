@@ -50,8 +50,8 @@ Pronouns: he/him
 
 ### Johns Hopkins University
 
-- _Elementary number theory._ Spring semester 2025
-- _Introduction to proofs._ Fall semester 2024.
+- _Elementary Number Theory._ Spring semester 2025
+- _Introduction to Proofs._ Fall semester 2024
 
 ### Carnegie Mellon University
 
@@ -68,9 +68,9 @@ Pronouns: he/him
 - Ivan Kobe. _Modalities in Higher Category Theory_. Current masters student
 - Mabel Najdovski. _Invertible Maps Are Spheres in the Universe_. Undergraduate thesis, 2024
 - Vojtěch Štěpančík. _Formalization of Homotopy Pushouts in Homotopy Type Theory_. Master thesis, 2024
-- Maša Žaucer. _Formalization of the structure sheaf of a ring spectrum_. Undergraduate thesis, 2024
-- Victor Blanchi. Internship on formalizing _Dirichlet species and the Hasse-Weil zeta function_ in agda-unimath, 2023
-- Éléonore Mangel. Internship on formalizing the _Delooping the sign homomorphism in univalent mathematics_ in agda-unimath, 2022
+- Maša Žaucer. _Formalization of the Structure Sheaf of a Ring Spectrum_. Undergraduate thesis, 2024
+- Victor Blanchi. Internship on formalizing _Dirichlet Species and the Hasse-Weil Zeta Function_ in agda-unimath, 2023
+- Éléonore Mangel. Internship on formalizing the _Delooping the Sign Homomorphism in Univalent Mathematics_ in agda-unimath, 2022
 
 ## Bio
 
@@ -80,7 +80,7 @@ I have been part of the Homotopy Type Theory community since its inception. As a
 
 ## Agda-unimath
 
-The [agda-unimath library](https://unimath.github.io/agda-unimath/) was founded during the _Univalent Foundations For Daily Applications_ meeting organized by [Marc Bezem](https://www.ii.uib.no/~bezem/) and [Bjørn Ian Dundas](https://www4.uib.no/en/find-employees/Bjørn.Ian.Dundas) in Bergen, in November 2021. The formalization for my book _Introduction to Homotopy Type Theory_ had grown substantially., and it contained an up-to-date foundation for univalent mathematics. Therefore I suggested to also formalize the [Symmetry](https://github.com/UniMath/SymmetryBook) book. [Elisabeth Stenholm](https://elisabeth.stenholm.one), [Jonathan Prieto-Cubides](https://jonaprieto.github.io), and [Pierre Cagne](http://www.normalesup.org/~cagne/) joined the cause, and helped transforming the book formalization into a library that could be used effectively for other projects.
+The [agda-unimath library](https://unimath.github.io/agda-unimath/) was founded during the _Univalent Foundations for Daily Applications_ meeting organized by [Marc Bezem](https://www.ii.uib.no/~bezem/) and [Bjørn Ian Dundas](https://www4.uib.no/en/find-employees/Bjørn.Ian.Dundas) in Bergen, in November 2021. The formalization for my book _Introduction to Homotopy Type Theory_ had grown substantially., and it contained an up-to-date foundation for univalent mathematics. Therefore I suggested to also formalize the [Symmetry](https://github.com/UniMath/SymmetryBook) book. [Elisabeth Stenholm](https://elisabeth.stenholm.one), [Jonathan Prieto-Cubides](https://jonaprieto.github.io), and [Pierre Cagne](http://www.normalesup.org/~cagne/) joined the cause, and helped transforming the book formalization into a library that could be used effectively for other projects.
 
 It soon became clear that we wanted the library to serve a more general purpose, containing any kind of mathematics from a univalent point of view, and that the best format was that of a formalized wiki. Thus the idea was born to have a one-concept-per-file organization, which to our knowledge was new for formalization, and have each file read like an [*n*Lab page](https://ncatlab.org/nlab/show/HomePage) with additional resources and links included in each page. The agda-unimath project has since grown to a project with over 400K lines of code, over 2000 pages, and over 40 contribibutors. It is the largest library of formalized mathematics of any kind in the Agda proof assistant, including the widely used [standard library](https://github.com/agda/agda-stdlib) and the [cubical agda library](https://github.com/agda/cubical). I remain one of the most active contributors to the library, with over 1200 commits and 800K modifications.
 
@@ -90,7 +90,7 @@ However, far more important is the community that we have been growing. At the s
 
 ### Johns Hopkins University (August 2024-present)
 
-I am currently working as a postdoctoral researcher with Emily Riehl. With Emily, we are studying and formalizing [synthetic higher categories](https://unimath.github.io/agda-unimath/synthetic-category-theory.html), and I am teaching _Introduction to proofs_, and undergraduate course following my friend [Clive Newstead's](https://www.math.cmu.edu/~cnewstea/) book [Infinite descent into pure mathematics](https://infinitedescent.xyz).
+I am currently working as a postdoctoral researcher with Emily Riehl. With Emily, we are studying and formalizing [synthetic higher categories](https://unimath.github.io/agda-unimath/synthetic-category-theory.html), and I am teaching _Introduction to Proofs_, and undergraduate course following my friend [Clive Newstead's](https://www.math.cmu.edu/~cnewstea/) book [_Infinite Descent into Pure Mathematics_](https://infinitedescent.xyz).
 
 ### University of Ljubljana (September 2019-July 2024)
 
@@ -109,7 +109,7 @@ After completing my masters thesis in 2012 I work for one year as research assis
 ### PhD in Pure and Applied Logic (2014–2018)
 **Carnegie Mellon University**  
 _Advisor:_ [Steve Awodey](https://awodey.github.io)  
-_Thesis:_ [_Classifying types_](https://arxiv.org/abs/1906.09435)  
+_Thesis:_ [_Classifying Types_](https://arxiv.org/abs/1906.09435)  
 _Thesis Committee:_ Steve Awodey, [Jeremy Avigad](https://www.andrew.cmu.edu/user/avigad/), [Ulrik Buchholtz](https://ulrikbuchholtz.dk), [Michael Shulman](https://home.sandiego.edu/~shulman/)  
 _Awards:_ Presidential Fellowship Award, 2016
 
