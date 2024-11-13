@@ -66,8 +66,8 @@ Pronouns: he/him
 ## Advising
 
 - Ivan Kobe. _Modalities in Higher Category Theory_. Current masters student
-- Mabel Najdovski. _Invertible Maps Are Spheres in the Universe_. Undergraduate thesis, 2024
-- Vojtěch Štěpančík. _Formalization of Homotopy Pushouts in Homotopy Type Theory_. Master thesis, 2024
+- Mabel Najdovski. _Invertible Maps Are Spheres in the Universe_. Undergraduate thesis, 2024. <span style="color:purple">Recepient of the Preseren Award for best undergraduate thesis.</span>
+- Vojtěch Štěpančík. _Formalization of Homotopy Pushouts in Homotopy Type Theory_. Master thesis, 2024. <span style="color:purple">Recepient of the Dean's award for best masters thesis.</span>
 - Maša Žaucer. _Formalization of the Structure Sheaf of a Ring Spectrum_. Undergraduate thesis, 2024
 - Victor Blanchi. Internship on formalizing _Dirichlet Species and the Hasse-Weil Zeta Function_ in agda-unimath, 2023
 - Éléonore Mangel. Internship on formalizing the _Delooping the Sign Homomorphism in Univalent Mathematics_ in agda-unimath, 2022
