@@ -1,6 +1,6 @@
 # Elementary Number Theory
 
-**Math 304 — Spring 2025**
+**Math 304 — Fall 2025**
 
 - **Meeting time and place:** Tue/Thu 9:00 - 10:15, (Location TBA)
 - **Instructor:** Egbert Rijke (erijke1[at]jh.edu)

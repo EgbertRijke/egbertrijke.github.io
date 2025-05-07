@@ -4,7 +4,7 @@
 
 - **Meeting time and place:** Tue/Thu 9:00 - 10:15, Krieger Hall 304
 - **Instructor:** Egbert Rijke (erijke1[at]jh.edu)
-- **Office:** Krieger Hall 304
+- **Office:** Krieger Hall 213
 - **Office Hours:** Wed 12:00 - 13:15, or by appointment
 
 [Course notes](jhu-number-theory-spring-2025.pdf)
