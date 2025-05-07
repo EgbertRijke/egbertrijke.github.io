@@ -51,3 +51,10 @@ Furthermore, there are some popular channels on video-sharing sites such as YouT
 You might also enjoy joining some Discord servers, such as the Art of Problem Solving (AoPS) Community Server, the Math Stack Exchange Discord, or the OmegaLearn Server. If you are interested in formalization of mathematics, using proof assistants such as Agda, Lean, or Rocq, you'll also find thriving online communities that are focused on building large libraries of formalized mathematics. Lean's *Natural Numbers Game* is especially worth trying, especially if you are new to induction and recursion. This set of lecture notes is currently being formalized in the *agda-unimath* library.
 
 Finally, you might find generative AI tools such as ChatGPT useful in exploring mathematical topics. These tools are helpful because you can ask them to explain any topic that interests you, and the quality of their answers is quickly improving with each new version. Be careful, however, to ensure you understand the answers for yourself. Large language models are prone to give overconfident presentations, and as such AI-generated reasoning is not always reliable.
+
+## Some Complementary Reading
+
+- Eugene Wigner. [The Unreasonable Effectiveness of Mathematics in the Natural Sciences](https://en.wikipedia.org/wiki/The_Unreasonable_Effectiveness_of_Mathematics_in_the_Natural_Sciences) [\[pdf\]](https://webhomes.maths.ed.ac.uk/~v1ranick/papers/wigner.pdf)
+- Terence Tao. [What is Good Mathematics?](https://arxiv.org/abs/math/0702396)
+- John Baez and James Dolan. [From Finite Sets to Feynman Diagrams](https://arxiv.org/abs/math/0004133)
+- David W. Lyons. [An Elementary Introduction to the Hopf Fibration](https://arxiv.org/abs/2212.01642)
