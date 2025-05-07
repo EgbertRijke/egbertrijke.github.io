@@ -50,13 +50,13 @@ Pronouns: he/him
 
 ### Johns Hopkins University
 
-- _Elementary Number Theory._ Fall 2025 [Course page](jhu-number-theory-fall-2025.md)
-- _Elementary Number Theory._ Spring 2025 [Course page](jhu-number-theory-spring-2025.md) [Course notes](jhu-number-theory-spring-2025.pdf)
+- _Elementary Number Theory._ Fall 2025 [\[Course page\]](jhu-number-theory-fall-2025.md)
+- _Elementary Number Theory._ Spring 2025 [\[Course page\]](jhu-number-theory-spring-2025.md) [\[Course notes\]](jhu-number-theory-spring-2025.pdf)
 - _Introduction to Proofs._ Fall 2024
 
 ### Carnegie Mellon University
 
-- _Introduction to Homotopy Type Theory._ Carnegie Mellon University, 80-518/80-818, Spring 2018. [Course Page](cmu-intro-to-hott-2018.md) [Course notes](hott_intro_cmu.pdf)
+- _Introduction to Homotopy Type Theory._ Carnegie Mellon University, 80-518/80-818, Spring 2018. [Course Page](cmu-intro-to-hott-2018.md) [\[Course notes\]](hott_intro_cmu.pdf)
 
 ### Online
 
