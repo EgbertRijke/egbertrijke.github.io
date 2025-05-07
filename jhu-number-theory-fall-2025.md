@@ -11,11 +11,11 @@
 
 ## Course Description
 
-This course offers an introduction to elementary number theory with minimal background prerequisites. We will be using Silverman's Friendly Introduction to Number Theory, and course notes written by the instructor. The course will cover essential concepts and some of the most celebrated results in elementary number theory, divisibility, the theorems of Fermat, Euler, and Wilson, the Chinese remainder theorem, prime numbers and factorization, some arithmetic functions, primitive roots, quadratic reciprocity, and Diophantine equations. Time permitting, additional topics from later chapters in the book, such as Pell’s equation, continued fractions, or factorization in the Gaussian integers, may also be included.
+This course offers an introduction to elementary number theory with minimal background prerequisites. We will be using Silverman's _A Friendly Introduction to Number Theory_, and course notes written by the instructor. The course will cover essential concepts and some of the most celebrated results in elementary number theory, divisibility, the theorems of Fermat, Euler, and Wilson, the Chinese remainder theorem, prime numbers and factorization, some arithmetic functions, primitive roots, quadratic reciprocity, and Diophantine equations. Time permitting, additional topics from later chapters in the book, such as Pell’s equation, continued fractions, or factorization in the Gaussian integers, may also be included.
 
 ## Course material
 
-We will roughly cover the material of Chapters 1 through 36 of the book _Friendly Introduction to Number Theory_ by Joseph Silverman. Course notes will be provided by the instructor.
+We will roughly cover the material of Chapters 1 through 36 of the book _A Friendly Introduction to Number Theory_ by Joseph Silverman. Course notes will be provided by the instructor.
 
 ## Literature
 
