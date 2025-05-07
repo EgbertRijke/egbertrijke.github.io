@@ -56,7 +56,7 @@ Pronouns: he/him
 
 ### Carnegie Mellon University
 
-- _Introduction to Homotopy Type Theory._ Carnegie Mellon University, 80-518/80-818, Spring 2018. [Course Page](cmu-intro-to-hott-2018.md) [\[Course notes\]](hott_intro_cmu.pdf)
+- _Introduction to Homotopy Type Theory._ Carnegie Mellon University, 80-518/80-818, Spring 2018. [\[Course Page\]](cmu-intro-to-hott-2018.md) [\[Course notes\]](hott_intro_cmu.pdf)
 
 ### Online
 
