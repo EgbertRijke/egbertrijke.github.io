@@ -50,8 +50,8 @@ Pronouns: he/him
 
 ### Johns Hopkins University
 
-- _Elementary Number Theory._ Fall 2025 [\[Course page\]](jhu-number-theory-fall-2025.md)
-- _Elementary Number Theory._ Spring 2025 [\[Course page\]](jhu-number-theory-spring-2025.md) [\[Course notes\]](jhu-number-theory-spring-2025.pdf)
+- _Elementary Number Theory._ Fall 2025 [\[Course page\]](jhu-number-theory-fall-2025.md) [\[Course notes\]](elementary-number-theory-fall.pdf)
+- _Elementary Number Theory._ Spring 2025 [\[Course page\]](jhu-number-theory-spring-2025.md) [\[Course notes\]](elementary-number-theory-fall.pdf)
 - _Introduction to Proofs._ Fall 2024
 
 ### Carnegie Mellon University

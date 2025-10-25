@@ -7,7 +7,7 @@
 - **Office:** Krieger Hall 213
 - **Office Hours:** Wed 12:00 - 13:15, or by appointment
 
-[Course notes](jhu-number-theory-spring-2025.pdf)
+[\[Course notes\]](elementary-number-theory-fall.pdf)
 
 ---
 
