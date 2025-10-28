@@ -19,7 +19,7 @@ Pronouns: he/him
 - D. Christensen and E. Rijke, _Characterizations of Modalities and Lex Modalities_, Journal of Pure and Applied Algebra, 2022. [arXiv](https://arxiv.org/abs/2008.03538)
 - F. Cherubini and E. Rijke, _Modal Descent_, Mathematical Structures in Computer Science, 2021. [arXiv](https://arxiv.org/abs/2003.09713)
 - U. Buchholtz and E. Rijke, _The Long Exact Sequence of Homotopy n-Groups_, Logical Methods in Computer Science, 2021. [arXiv](https://arxiv.org/abs/1912.08696)
-- K. Sojakova, F. van Doorn, E. Rijke. _Sequential Colimits in Homotopy Type Theory_, LICS (2020).
+- K. Sojakova, F. van Doorn, E. Rijke. _Sequential Colimits in Homotopy Type Theory_, LICS, 2020.
 - D. Christensen, M. Opie, E. Rijke, and L. Scoccola, _Localization in Homotopy Type Theory_, Higher Structures, 2018. [arXiv](https://arxiv.org/abs/1807.04155)
 - E. Rijke, M. Shulman, and B. Spitters, _Modalities in Homotopy Type Theory_, Logical Methods in Computer Science, 2018. [arXiv](https://arxiv.org/abs/1706.07526)
 - U. Buchholtz, F. van Doorn, and E. Rijke, _Higher Groups in Homotopy Type Theory_, Logic in Computer Science, 2018. [arXiv](https://arxiv.org/abs/1802.04315)
