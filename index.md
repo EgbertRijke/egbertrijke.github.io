@@ -13,6 +13,9 @@ Pronouns: he/him
 
 ## Publications
 
+- B. Ahrens, J. Emmenegger, P. North, and E. Rijke. _Algebraic presentations of type dependency_, Logical Methods in Computer Science, 2025. [arXiv](https://arxiv.org/abs/2111.09948)
+- U. Buchholtz, J.D. Christensen, J. Taxerås, E. Rijke. _Central H-spaces and Banded Types_, Journal of Pure and Applied Algebra (2025). [arXiv](https://arxiv.org/abs/2301.02636)
+- B. Ahrens, J. Emmenegger, P. North, and E. Rijke. _B-systems and C-systems are equivalent_, Journal of Symbolic Logic (2024).
 - D. Christensen and E. Rijke, _Characterizations of Modalities and Lex Modalities_, Journal of Pure and Applied Algebra, 2022. [arXiv](https://arxiv.org/abs/2008.03538)
 - F. Cherubini and E. Rijke, _Modal Descent_, Mathematical Structures in Computer Science, 2021. [arXiv](https://arxiv.org/abs/2003.09713)
 - U. Buchholtz and E. Rijke, _The Long Exact Sequence of Homotopy n-Groups_, Logical Methods in Computer Science, 2021. [arXiv](https://arxiv.org/abs/1912.08696)
