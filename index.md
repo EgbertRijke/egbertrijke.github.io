@@ -8,7 +8,7 @@ Pronouns: he/him
 
 - [GitHub](https://github.com/EgbertRijke)
 - [X](https://x.com/egbertrijke)
-- [mathstodon](https://mathstodon.xyz/@egbertrijke)
+- <a rel="me" href="https://mathstodon.xyz/@egbertrijke">mathstodon</a>
 - [*n*Lab](https://ncatlab.org/nlab/show/Egbert+Rijke)
 
 ![Cover of the Introduction to Homotopy Type Theory textbook](book-cover.jpg)
