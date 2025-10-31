@@ -11,6 +11,10 @@ Pronouns: he/him
 - [mathstodon](https://mathstodon.xyz/@egbertrijke)
 - [*n*Lab](https://ncatlab.org/nlab/show/Egbert+Rijke)
 
+![Cover of the Introduction to Homotopy Type Theory textbook](book-cover.jpg)
+
+Visit the [publisher's webpage](https://www.cambridge.org/core/books/introduction-to-homotopy-type-theory/0DD31EC06C80797A50ACE807251E80B6) to order a copy.
+
 ## Publications
 
 - B. Ahrens, J. Emmenegger, P. North, and E. Rijke. _Algebraic presentations of type dependency_, Logical Methods in Computer Science, 2025. [arXiv](https://arxiv.org/abs/2111.09948)
