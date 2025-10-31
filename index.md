@@ -29,7 +29,7 @@ Pronouns: he/him
 
 ## Books
 
-- Egbert Rijke. _Introduction to Homotopy Type Theory_. Cambridge University Press, 2025 (To appear). [arXiv](https://arxiv.org/abs/2212.11082)
+- Egbert Rijke. _Introduction to Homotopy Type Theory_. Cambridge University Press, 2025. [CUP website](https://www.cambridge.org/core/books/introduction-to-homotopy-type-theory/0DD31EC06C80797A50ACE807251E80B6), [arXiv](https://arxiv.org/abs/2212.11082)
 - Univalent Foundations Program. _Homotopy Type Theory: Univalent Foundations of Mathematics_. Institute for Advanced Study, 2013. [website](https://homotopytypetheory.org/book/)
 
 ## Invited Lecture Series
