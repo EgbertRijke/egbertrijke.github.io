@@ -13,7 +13,7 @@ Pronouns: he/him
 
 ![Cover of the Introduction to Homotopy Type Theory textbook](book-cover.jpg)
 
-Visit the [publisher's webpage](https://www.cambridge.org/core/books/introduction-to-homotopy-type-theory/0DD31EC06C80797A50ACE807251E80B6) to order a copy.
+Visit the [publisher's webpage](https://www.cambridge.org/us/universitypress/subjects/mathematics/logic-categories-and-sets/introduction-homotopy-type-theory) to order a copy.
 
 ## Publications
 
