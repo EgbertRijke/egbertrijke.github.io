@@ -74,7 +74,7 @@ Visit the [publisher's webpage](https://www.cambridge.org/us/universitypress/sub
 
 ## Advising
 
-- Ivan Kobe. _A Type Theory for Synthetic Categories_. Masters thesis, University of Ljubljana, 2025.
+- Ivan Kobe. _A Type Theory for Synthetic Categories_. Masters thesis, University of Ljubljana, 2025. <span style="color:purple">Recepient of the Prešeren Award for best masters thesis.</span>
 - Mabel Najdovski. _Invertible Maps Are Spheres in the Universe_. Undergraduate thesis, University of Ljubljana, 2024. <span style="color:purple">Recepient of the Prešeren Award for best undergraduate thesis.</span>
 - Vojtěch Štěpančík. _Formalization of Homotopy Pushouts in Homotopy Type Theory_. Master thesis, Charles University, Prague 2024. <span style="color:purple">Recepient of the Dean's Award for best masters thesis.</span>
 - Maša Žaucer. _Formalization of the Structure Sheaf of a Ring Spectrum_. Undergraduate thesis, University of Ljubljana, 2024
