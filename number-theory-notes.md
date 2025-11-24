@@ -1,8 +1,22 @@
 # Course Notes on Elementary Number Theory
 
-These are course notes for the course 304 Elementary Number Theory, which I taught at Johns Hopkins University in the Spring 2025 and Fall 2025 semesters.
+These are course notes for the course 304 Elementary Number Theory, which I taught at Johns Hopkins University in the [Spring 2025](jhu-number-theory-spring-2025.md) and [Fall 2025](jhu-number-theory-fall-2025.md) semesters.
 
 [\[Download the course notes (pdf, 319 pages)\]](elementary-number-theory-fall.pdf)
+
+## Basic information
+
+- Author: Egbert Rijke
+- Title: Elementary Number Theory
+- Year: 2025
+- Type: Lecture notes
+- Level: Undergraduates
+- Prerequisites: None
+- Language: English
+- Institution: Johns Hopkins University
+- Description: Freely available notes for an undergraduate course on number theory, with an emphasis on proof-writing, history, structural thinking, the central theorems of elementary number theory, and extensive exercises carefully categorized by skill level.
+- URL: [https://egbertrijke.github.io/number-theory-notes.html](https://egbertrijke.github.io/number-theory-notes.html)
+
 
 ## Overview of the Course
 
