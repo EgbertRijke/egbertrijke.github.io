@@ -58,8 +58,8 @@ Visit the [publisher's webpage](https://www.cambridge.org/us/universitypress/sub
 
 ### Johns Hopkins University
 
-- _Elementary Number Theory._ Fall 2025 [\[Course page\]](jhu-number-theory-fall-2025.md) [\[Course notes\]](number-theory-notes.md)
-- _Elementary Number Theory._ Spring 2025 [\[Course page\]](jhu-number-theory-spring-2025.md) [\[Course notes\]](number-theory-notes.md)
+- _Elementary Number Theory._ Fall 2025 [\[Course page\]](jhu-number-theory-fall-2025.md) [\[Course notes (webpage)\]](number-theory-notes.md)
+- _Elementary Number Theory._ Spring 2025 [\[Course page\]](jhu-number-theory-spring-2025.md) [\[Course notes (webpage)\]](number-theory-notes.md)
 - _Introduction to Proofs._ Fall 2024
 
 ### Carnegie Mellon University

@@ -2,7 +2,7 @@
 
 These are course notes for the course 304 Elementary Number Theory, which I taught at Johns Hopkins University in the Spring 2025 and Fall 2025 semesters.
 
-[\[Course notes\]](elementary-number-theory-fall.pdf)
+[\[Course notes (pdf)\]](elementary-number-theory-fall.pdf)
 
 ## Contents of the Course
 

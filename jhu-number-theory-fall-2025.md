@@ -15,7 +15,7 @@ This course offers an introduction to elementary number theory with minimal back
 
 ## Course material
 
-[\[Course notes\]](number-theory-notes.md)
+[\[Course notes (webpage)\]](number-theory-notes.md)
 
 We will roughly cover the material of Chapters 1 through 36 of the book _A Friendly Introduction to Number Theory_ by Joseph Silverman. Course notes will be provided by the instructor.
 

@@ -7,7 +7,7 @@
 - **Office:** Krieger Hall 213
 - **Office Hours:** Wed 12:00 - 13:15, or by appointment
 
-[\[Course notes\]](number-theory-notes.md)
+[\[Course notes (webpage)\]](number-theory-notes.md)
 
 ---
 
