@@ -2,9 +2,9 @@
 
 These are course notes for the course 304 Elementary Number Theory, which I taught at Johns Hopkins University in the Spring 2025 and Fall 2025 semesters.
 
-[\[Course notes (pdf)\]](elementary-number-theory-fall.pdf)
+[\[Download the course notes (pdf, 319 pages)\]](elementary-number-theory-fall.pdf)
 
-## Contents of the Course
+## Overview of the Course
 
 Elementary Number Theory is a designated "Introduction to Proofs" course at the Johns Hopkins Mathematics Department. The course is taken by students with a variety of majors, including mathematics, computer science, chemistry, history, or music.
 
@@ -13,9 +13,9 @@ The beginning of the course focuses on proof writing, and covers topics such as 
 - History: By answering the question "How did mathematicians of the past think about certain phenomena?", and "Have these concepts always been like that", we make thinking about thinking about numbers more tangible.
 - Structural thinking: By articulating what kinds of structure we are thinking about, the student learns to extract the essence of a mathematical problem.
 
-The course then develop topics such as divisibility, greatest common divisors, rational numbers, Pythagorean triples, and infinite descent. In the historical development, these lectures take us from ancient mathematics to the time of Fermat. The purpose here is to build a solid foundation in proof-writing skills, before moving on to the more typical number-theoretic topics. After this foundational part of the course, we cover topics such as modular arithmetic, the Chinese Remainder Theorem, primes, multiplicative functions, Fermat's Little Theorem, Fermat's Two-Squares theorem, polynomials, primitive roots, quadratic residues, and quadratic reciprocity.
+The course then develops topics such as divisibility, greatest common divisors, rational numbers, Pythagorean triples, and infinite descent. In the historical development, these lectures take us from ancient mathematics to the time of Fermat. The purpose here is to build a solid foundation in proof-writing skills, before moving on to the more typical number-theoretic topics. After this foundational part of the course, we cover topics such as modular arithmetic, the Chinese Remainder Theorem, primes, multiplicative functions, Fermat's Little Theorem, Fermat's Two-Squares theorem, polynomials, primitive roots, quadratic residues, and quadratic reciprocity.
 
-The notes contain extensive references to historical aspects of number theory. I have made use of many sources to learn about the history of number theory, particularly Andre Weil's _Number Theory: An Approach Through History from Hammurapi to Legendre_ and Carl Friedrich Gauss's _Disquisitiones Arithmeticae_. I have also read historical sources such as Fibonacci's _Liber Quadratorum_, the works of Leonhard Euler, and I have benefitted from many online sources. In particular, the Internet Archive hosts scans of many original texts in number theory. Finally, I have learned from many textbooks in number theory, including LeVeque's _Topics in Nubmer Theory_, Hardy and Wright's _An Introduction to the Theory of Numbers_, Silverman's _A Friendly Introduction to Number Theory_, and many more. Furthermore, Keith Conrad's [various notes](https://kconrad.math.uconn.edu/blurbs/) on topics in number theory have been invaluable.
+The notes contain extensive references to historical aspects of number theory. I have made use of many sources to learn about the history of number theory, particularly Andre Weil's _Number Theory: An Approach Through History from Hammurapi to Legendre_ and Carl Friedrich Gauss's _Disquisitiones Arithmeticae_. I have also read historical sources such as Fibonacci's _Liber Quadratorum_, the works of Leonhard Euler, and I have benefitted from many online sources. In particular, the Internet Archive hosts scans of many original texts in number theory. Finally, I have learned from many textbooks in number theory, including LeVeque's _Topics in Number Theory_, Hardy and Wright's _An Introduction to the Theory of Numbers_, Silverman's _A Friendly Introduction to Number Theory_, and many more. Furthermore, Keith Conrad's [various notes](https://kconrad.math.uconn.edu/blurbs/) on topics in number theory have been invaluable.
 
 ## Comments on the Pedagogy
 
