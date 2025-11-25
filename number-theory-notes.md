@@ -10,6 +10,8 @@ keywords:
   - number theory pdf
 ---
 
+# Course Notes on Elementary Number Theory
+
 These are course notes for the course 304 Elementary Number Theory, which I taught at Johns Hopkins University in the [Spring 2025](jhu-number-theory-spring-2025.md) and [Fall 2025](jhu-number-theory-fall-2025.md) semesters.
 
 [\[Download the course notes (pdf, 319 pages)\]](elementary-number-theory-fall.pdf)
