@@ -29,7 +29,7 @@ These are course notes for the course 304 Elementary Number Theory, which I taug
 - Language: English
 - Institution: Johns Hopkins University
 - Description: Freely available notes for an undergraduate course on number theory, with an emphasis on proof-writing, history, structural thinking, the central theorems of elementary number theory, and an extensive set of exercises carefully categorized by skill level.
-- URL: [https://egbertrijke.github.io/number-theory-notes.html](https://egbertrijke.github.io/number-theory-notes.html)
+- URL: [https://egbertrijke.github.io/notes/number-theory/](https://egbertrijke.github.io/notes/number-theory/)
 
 
 ## Overview of the Course
