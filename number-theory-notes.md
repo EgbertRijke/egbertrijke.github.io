@@ -2,7 +2,7 @@
 layout: default
 title: "Course Notes on Elementary Number Theory"
 description: "Freely available undergraduate lecture notes in elementary number theory by Egbert Rijke, with an emphasis on proof-writing, history, structural thinking, the central theorems of elementary number theory, and an extensive set of exercises carefully categorized by skill level."
-permalink: /number-theory-notes/
+permalink: /notes/number-theory/
 keywords:
   - elementary number theory
   - number theory lecture notes
