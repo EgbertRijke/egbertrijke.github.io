@@ -1,4 +1,14 @@
-# Course Notes on Elementary Number Theory
+---
+layout: default
+title: "Course Notes on Elementary Number Theory"
+description: "Freely available undergraduate lecture notes in elementary number theory by Egbert Rijke, with an emphasis on proof-writing, history, structural thinking, the central theorems of elementary number theory, and an extensive set of exercises carefully categorized by skill level."
+permalink: /number-theory-notes/
+keywords:
+  - elementary number theory
+  - number theory lecture notes
+  - undergraduate number theory
+  - number theory pdf
+---
 
 These are course notes for the course 304 Elementary Number Theory, which I taught at Johns Hopkins University in the [Spring 2025](jhu-number-theory-spring-2025.md) and [Fall 2025](jhu-number-theory-fall-2025.md) semesters.
 
@@ -16,7 +26,7 @@ These are course notes for the course 304 Elementary Number Theory, which I taug
 - Prerequisites: None
 - Language: English
 - Institution: Johns Hopkins University
-- Description: Freely available notes for an undergraduate course on number theory, with an emphasis on proof-writing, history, structural thinking, the central theorems of elementary number theory, and extensive exercises carefully categorized by skill level.
+- Description: Freely available notes for an undergraduate course on number theory, with an emphasis on proof-writing, history, structural thinking, the central theorems of elementary number theory, and an extensive set of exercises carefully categorized by skill level.
 - URL: [https://egbertrijke.github.io/number-theory-notes.html](https://egbertrijke.github.io/number-theory-notes.html)
 
 

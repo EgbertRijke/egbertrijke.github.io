@@ -1,0 +1,46 @@
+theme: jekyll-theme-primer
+lang: "en"
+timezone: "America/New_York"
+title: "Egbert Rijke's Academic Webpage"
+url: "https://egbertrijke.github.io"
+baseurl: ""
+
+author:
+  name: "Egbert Rijke"
+  url: "https://egbertrijke.github.io"
+  email: "erijke1@jh.edu"
+
+twitter:
+  username: "EgbertRijke"
+  card: "summary_large_image"
+  
+social:
+  name: "Egbert Rijke"
+  links:
+    - "https://github.com/egbertrijke"
+    - "https://mathstodon.xyz/@egbertrijke"
+    - "https://orcid.org/0000-0002-5272-6175"
+    - "https://unimath.github.io/agda-unimath/"
+
+tagline: "Formalization, Homotopy Type Theory, and Univalent Mathematics"
+
+description: "Personal academic website of Egbert Rijke, a researcher at Johns Hopkins University who specializes in the formalization of mathematics and homotopy type theory. This website contains links to publications, course websites, and course notes."
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - README.md
+  - LICENSE
+  - .gitignore
