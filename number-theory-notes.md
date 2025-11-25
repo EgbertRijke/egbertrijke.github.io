@@ -14,7 +14,9 @@ These are course notes for the course 304 Elementary Number Theory, which I taug
 
 [\[Download the course notes (pdf, 319 pages)\]](elementary-number-theory-fall.pdf)
 
-<img src="elementary-number-theory-notes-front-page.png" alt="Front page of the Elementary Number Theory course notes by Egbert Rijke" style="width:50%;">
+<img src="/elementary-number-theory-notes-front-page.png"
+     alt="Front page of the Elementary Number Theory course notes by Egbert Rijke"
+     style="width:50%;">
 
 ## Basic information
 
