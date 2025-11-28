@@ -14,7 +14,7 @@ keywords:
 
 These are course notes for the course 304 Elementary Number Theory, which I taught at Johns Hopkins University in the [Spring 2025](jhu-number-theory-spring-2025.md) and [Fall 2025](jhu-number-theory-fall-2025.md) semesters.
 
-[\[Download the course notes (pdf, 336 pages, last updated: Nov. 27 2025)\]](elementary-number-theory-fall.pdf)
+[\[Download the course notes (pdf, 336 pages)\]](elementary-number-theory-fall.pdf)
 
 <img src="/elementary-number-theory-notes-front-page.png"
      alt="Front page of the Elementary Number Theory course notes by Egbert Rijke"
@@ -25,8 +25,11 @@ These are course notes for the course 304 Elementary Number Theory, which I taug
 - Author: Egbert Rijke
 - Title: Elementary Number Theory
 - Year: 2025
+- Last updated: November 27, 2025
+- Pages: 336
+- Exercises: 244
 - Type: Lecture notes
-- Level: Undergraduates
+- Level: Upper-division undergraduate
 - Prerequisites: None
 - Language: English
 - Institution: Johns Hopkins University
