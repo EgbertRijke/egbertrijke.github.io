@@ -26,7 +26,7 @@ These are course notes for the course 304 Elementary Number Theory, which I taug
 - Title: Elementary Number Theory
 - Year: 2025
 - Last updated: November 30, 2025
-- Pages: 336
+- Pages: 342
 - Exercises: 246
 - Type: Lecture notes
 - Level: Upper-division undergraduate
