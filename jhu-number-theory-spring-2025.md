@@ -1,3 +1,15 @@
+---
+layout: default
+title: "Math 304 Elementary Number Theory, Spring 2025"
+description: "Course website for Math 304 Elementary Number Theory, taught at Johns Hopkins University in the spring semester of 2025."
+permalink: /courses/elementary-number-theory-jhu-spring-2025/
+keywords:
+  - elementary number theory
+  - number theory lecture notes
+  - undergraduate number theory
+  - number theory pdf
+---
+
 # Elementary Number Theory
 
 **Math 304 — Spring 2025**

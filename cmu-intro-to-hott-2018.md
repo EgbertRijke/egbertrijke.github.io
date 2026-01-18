@@ -1,3 +1,12 @@
+---
+layout: default
+title: "Introduction to Homotopy Type Theory (course page)"
+description: "Course webpage of the course 80-518, 80-818 Introduction to Homotopy Type Theory taught at CMU in the spring semester of 2018."
+permalink: /courses/intro-to-hott-cmu-spring-2018/
+keywords:
+  - homotopy type theory
+---
+
 # Introduction to Homotopy Type Theory
 
 **80-518, 80-818 — Spring 2018**

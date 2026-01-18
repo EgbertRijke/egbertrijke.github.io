@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Egbert Rijke's Academic Website"
+title: "Egbert Rijke"
 description: "Personal academic website of Egbert Rijke, a researcher at Johns Hopkins University who specializes in the formalization of mathematics and homotopy type theory. This website contains links to publications, course websites, and course notes."
 permalink: /
 ---
@@ -58,6 +58,12 @@ Visit the [publisher's webpage](https://www.cambridge.org/us/universitypress/sub
 - HoTTEST Seminar, Online, 2021: _A Higher Encode-Decode Method_
 
 ## Teaching
+
+<a href="/notes/number-theory/">
+  <img src="elementary-number-theory-notes-front-page.png"
+       alt="Front page of the Elementary Number Theory course notes by Egbert Rijke"
+       width="50%">
+</a>
 
 ### Johns Hopkins University
 
