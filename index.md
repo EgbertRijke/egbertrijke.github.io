@@ -67,6 +67,7 @@ Visit the [publisher's webpage](https://www.cambridge.org/us/universitypress/sub
 
 ### Johns Hopkins University
 
+- _Introduction to Abstract Algebra._ Spring 2026 [\[Course page\]](jhu-algebra-spring-2026.md)
 - _Elementary Number Theory._ Fall 2025 [\[Course page\]](jhu-number-theory-fall-2025.md) [\[Course notes (webpage)\]](/notes/number-theory/)
 - _Elementary Number Theory._ Spring 2025 [\[Course page\]](jhu-number-theory-spring-2025.md) [\[Course notes (webpage)\]](/notes/number-theory/)
 - _Introduction to Proofs._ Fall 2024
