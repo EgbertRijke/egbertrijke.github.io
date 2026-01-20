@@ -18,3 +18,9 @@ keywords:
 - **Instructor:** Egbert Rijke (erijke1[at]jh.edu)
 - **Office:** Krieger Hall 405
 - **Office Hours:** Thu 13:00 - 14:00, or by appointment
+
+----
+
+**Lecture 1, January 21 2026**
+
+[\[Download Handout 1, Platonic Solids\]](handout-1-algebra-spring-2026.pdf)
