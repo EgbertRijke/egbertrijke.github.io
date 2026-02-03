@@ -14,13 +14,75 @@ keywords:
 
 **Math 401 — Spring 2026**
 
-- **Meeting time and place:** Mon/Wed 12:00 - 13:15, (Location TBA)
+- **Meeting time and place:** Mon/Wed 12:00-1:15PM, Bloomberg 276
 - **Instructor:** Egbert Rijke (erijke1[at]jh.edu)
 - **Office:** Krieger Hall 405
-- **Office Hours:** Thu 13:00 - 14:00, or by appointment
+- **Office Hours:** Tue 3:00-4:00PM and Thu 2:00-3:00PM, or by appointment.
+- **Teaching Assistant: Jiacheng Liang, (jliang66[at]jh.edu)
 
 ----
 
-**Lecture 1, January 21 2026**
+**Lecture 1, January 21 2026, Platonic Solids**
 
 [\[Download Handout 1, Platonic Solids\]](handout-1-algebra-spring-2026.pdf)
+
+Homework for week 1: 1.1, 1.3, 1.5, 1.7, 1.9.
+
+**Lecture 2, January 28 2026, Axioms of a Group**
+
+Homework for week 2: 2.3, 2.5, 2.7, 2.8, 3.2.
+
+**Lecture 3, February 2 2026, Dihedral Group**
+
+**Lecture 4, February 4 2026, Subgroups**
+
+Homework for week 3: 5.1, 5.3, 5.5, 5.8, 5.12.
+
+**Lecture 5, February 9 2026, Permutations**
+
+**Lecture 6, February 11 2026, Isomorphisms**
+
+**Lecture 7, February 16 2026, Cayley's Theorem**
+
+**Lecture 8, February 18 2026, Matrix Groups**
+
+**Lecture 9, February 23 2026, Products**
+
+**Lecture 10, February 25 2026, Lagrange's Theorem**
+
+**Lecture 11, March 2 2026, Partitions**
+
+**Lecture 12, March 4 2026, Cauchy's Theorem**
+
+**Lecture 13, March 9 2026, Conjugacy**
+
+**Lecture 14, March 11 2026, Quotient groups**
+
+**Lecture 15, March 23 2026, Homomorphisms**
+
+**Midterm 1, March 25 2026**
+
+The material tested on the midterm consists of lectures 1 through 14, up to and including quotient groups. A practice midterm with questions much like the midterm questions will be provided in the week of Friday March 6th. Office hours on Tuesday March 24th will be 2-4pm.
+
+**Lecture 16, March 30 2026, Actions, orbits and stabilizers**
+
+**Lecture 17, April 1 2026, Counting orbits**
+
+**Lecture 18, April 6 2026, Finite rotation groups**
+
+**Lecture 19, April 8 2026, The Sylow theorems**
+
+**Lecture 20, April 13 2026, Finitely generated abelian groups**
+
+**Lecture 21, April 15 2026, Row and column operations**
+
+**Lecture 22, April 20 2026, Automorphisms**
+
+**Lecture 23, April 22 2026, The Euclidean group**
+
+**Final exam, April 27 2026**
+
+
+
+**Spring Break, March 16-20 2026**
+

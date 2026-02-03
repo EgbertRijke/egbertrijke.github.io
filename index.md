@@ -1,6 +1,5 @@
 ---
 layout: default
-title: "Egbert Rijke"
 description: "Personal academic website of Egbert Rijke, a researcher at Johns Hopkins University who specializes in the formalization of mathematics and homotopy type theory. This website contains links to publications, course websites, and course notes."
 permalink: /
 ---
