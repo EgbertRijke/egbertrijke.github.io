@@ -30,7 +30,7 @@ keywords:
 
 **Remarks:** Mistakes are part of learning, so it is important to me that there is room for making mistakes and still earn a top grade. We're here to facilitate your learning.
 
-You're welcome to discuss and collaborate on homework with your friends. Anything that facilitates your learning is greatly encouraged. But submitted homework must not be copied, and should be your solution in your own words. AI generated homework solutions will not be graded and will be scored 0.
+You're welcome to discuss and collaborate on homework with your friends. Anything that facilitates your learning is greatly encouraged. But submitted homework must not be copied, and should be your solution in your own words. AI generated homework solutions will not be graded and will be reported and scored 0.
 
 ## Overview of the course
 
