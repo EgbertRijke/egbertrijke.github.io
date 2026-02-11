@@ -18,7 +18,7 @@ keywords:
 - **Instructor:** Egbert Rijke (erijke1[at]jh.edu)
 - **Office:** Krieger Hall 405
 - **Office Hours:** Tue 3:00-4:00PM and Thu 2:00-3:00PM, or by appointment.
-- **Teaching Assistant: Jiacheng Liang, (jliang66[at]jh.edu)
+- **Teaching Assistant:** Jiacheng Liang, (jliang66[at]jh.edu)
 
 ----
 
