@@ -22,7 +22,7 @@ keywords:
 
 ----
 
-## Syllabus
+## Course Policies
 
 - **Homework:** There will be weekly homework, counting to 50% of the grade.
 - **Exams:** There will be one midterm and a final, which each count 25% of the grade. In both cases I will prepare practice exams. 
