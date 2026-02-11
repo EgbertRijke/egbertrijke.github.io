@@ -22,6 +22,18 @@ keywords:
 
 ----
 
+## Syllabus
+
+- **Homework:** There will be weekly homework, counting to 50% of the grade.
+- **Exams:** There will be one midterm and a final, which each count 25% of the grade. In both cases I will prepare practice exams. 
+- **Letter grade:** Any score of 75% or higher will be worth an A.
+
+**Remarks:** Mistakes are part of learning, so it is important to me that there is room for making mistakes and still earn a top grade. We're here to facilitate your learning.
+
+You're welcome to discuss and collaborate on homework with your friends. Anything that facilitates your learning is greatly encouraged. But submitted homework must not be copied, and should be your solution in your own words. AI generated homework solutions will not be graded and will be scored 0.
+
+## Overview of the course
+
 **Lecture 1, January 21 2026, Platonic Solids**
 
 [\[Download Handout 1, Platonic Solids\]](handout-1-algebra-spring-2026.pdf)
@@ -41,6 +53,8 @@ Homework for week 3: 5.1, 5.3, 5.5, 5.8, 5.12.
 **Lecture 5, February 9 2026, Permutations**
 
 **Lecture 6, February 11 2026, Isomorphisms**
+
+Homework for week 4: 6.4, 6.6, 7,5, 7.7, 7.12
 
 **Lecture 7, February 16 2026, Cayley's Theorem**
 
