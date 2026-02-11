@@ -27,6 +27,7 @@ keywords:
 - **Homework:** There will be weekly homework, counting to 50% of the grade.
 - **Exams:** There will be one midterm and a final, which each count 25% of the grade. In both cases I will prepare practice exams. 
 - **Letter grade:** Any score of 75% or higher will be worth an A.
+- **Homework extension policy:** If you need an extension for any reason, please send us an email. Extensions of 48h will always be granted, provided that you requested one. Longer extension will be considered on a case-by-case basis.
 
 **Remarks:** Mistakes are part of learning, so it is important to me that there is room for making mistakes and still earn a top grade. We're here to facilitate your learning.
 
