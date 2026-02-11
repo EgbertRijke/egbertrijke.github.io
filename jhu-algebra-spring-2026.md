@@ -76,7 +76,7 @@ Homework for week 4: 6.4, 6.6, 7,5, 7.7, 7.12
 
 **Lecture 15, March 23 2026, Homomorphisms**
 
-**Midterm 1, March 25 2026**
+<span style="color: red;">Midterm 1, March 25 2026</span>
 
 The material tested on the midterm consists of lectures 1 through 14, up to and including quotient groups. A practice midterm with questions much like the midterm questions will be provided in the week of Friday March 6th. Office hours on Tuesday March 24th will be 2-4pm.
 
@@ -96,5 +96,4 @@ The material tested on the midterm consists of lectures 1 through 14, up to and 
 
 **Lecture 23, April 22 2026, The Euclidean group**
 
-**Final exam, April 27 2026**
-
+<span style="color: red;">Final exam, April 27 2026</span>
