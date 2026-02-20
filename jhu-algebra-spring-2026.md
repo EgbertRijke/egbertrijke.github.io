@@ -61,6 +61,8 @@ Homework for week 4: 6.4, 6.6, 7,5, 7.7, 7.12
 
 **Lecture 8, February 18 2026, Matrix Groups**
 
+Homework for week 5: 8.6, 8.7, 8.8, 8.9, 9.1
+
 **Lecture 9, February 23 2026, Products**
 
 **Lecture 10, February 25 2026, Lagrange's Theorem**
