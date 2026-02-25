@@ -67,6 +67,8 @@ Homework for week 5: 8.6, 8.7, 8.8, 8.9, 9.1
 
 **Lecture 10, February 25 2026, Lagrange's Theorem**
 
+Homework for week 6: 10.7, 10.11, 11.2, 11.3, 11.7.
+
 **Lecture 11, March 2 2026, Partitions**
 
 **Lecture 12, March 4 2026, Cauchy's Theorem**
