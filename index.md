@@ -110,6 +110,8 @@ However, far more important is the community that we have been growing. At the s
 
 I am currently working as a postdoctoral researcher with Emily Riehl. With Emily, we are studying and formalizing [synthetic higher categories](https://unimath.github.io/agda-unimath/synthetic-category-theory.html), and I am teaching _Introduction to Proofs_, and undergraduate course following my friend [Clive Newstead's](https://www.math.cmu.edu/~cnewstea/) book [_Infinite Descent into Pure Mathematics_](https://infinitedescent.xyz).
 
+While working at Johns Hopkins University, I also volunteer for [the Source of all Hope](https://sourceofallhope.org), a Catholic organization that looks after the homeless and poor. I help with meal ministries and other special events.
+
 ### University of Ljubljana (September 2019-July 2024)
 
 After my postdoc in Urbana-Champaign I returned to my academic roots, the University of Ljubljana. In 2011-2012 I had already spent a year here to write my masters thesis on homotopy type theory under Andrej Bauer. Now I returned to write my book, and open up new directions of research within homotopy type theory. As a member of the [Tydiform project](https://tydiform.fmf.uni-lj.si) I took a great interest in [univalent combinatorics](https://unimath.github.io/agda-unimath/univalent-combinatorics.html), which is an approach to combinatorics that takes advantage of the univalence axiom in order to count things up to isomorphism, and I founded the [agda-unimath library](https://unimath.github.io/agda-unimath/HOME.html) there. I have advised several students on topics related to the formalization of mathematics.
