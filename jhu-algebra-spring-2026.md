@@ -73,6 +73,8 @@ Homework for week 6: 10.7, 10.11, 11.2, 11.3, 11.7.
 
 **Lecture 12, March 4 2026, Cauchy's Theorem**
 
+Homework for week 7: 13.3, 13.4, 13.5, 13.8, 13.9.
+
 **Lecture 13, March 9 2026, Conjugacy**
 
 **Lecture 14, March 11 2026, Quotient groups**
