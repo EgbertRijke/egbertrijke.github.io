@@ -85,6 +85,8 @@ Homework for week 7: 13.3, 13.4, 13.5, 13.8, 13.9.
 
 <span style="color: red;">**Midterm 1, March 25 2026**</span>
 
+[\[Download the Practice Midterm\]](jhu-algebra-2026-practice-midterm.pdf)
+
 The material tested on the midterm consists of lectures 1 through 14, up to and including quotient groups. A practice midterm with questions much like the midterm questions will be provided in the week of Friday March 6th. Office hours on Tuesday March 24th will be 2-4pm.
 
 **Lecture 16, March 30 2026, Actions, orbits and stabilizers**
