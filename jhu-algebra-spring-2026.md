@@ -83,6 +83,8 @@ Homework for week 7: 13.3, 13.4, 13.5, 13.8, 13.9.
 
 **Lecture 15, March 23 2026, Homomorphisms**
 
+Homework for weeks 8 and 9: 15.2, 15.8, 16.3, 16.4, 16.11.
+
 <span style="color: red;">**Midterm 1, March 25 2026**</span>
 
 [\[Download the Practice Midterm\]](jhu-algebra-2026-practice-midterm.pdf)
