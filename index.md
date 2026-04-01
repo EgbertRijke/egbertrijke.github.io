@@ -66,14 +66,14 @@ Visit the [publisher's webpage](https://www.cambridge.org/us/universitypress/sub
 
 ### Johns Hopkins University
 
-- _Introduction to Abstract Algebra._ Spring 2026 [\[Course page\]](jhu-algebra-spring-2026.md)
-- _Elementary Number Theory._ Fall 2025 [\[Course page\]](jhu-number-theory-fall-2025.md) [\[Course notes (webpage)\]](/notes/number-theory/)
-- _Elementary Number Theory._ Spring 2025 [\[Course page\]](jhu-number-theory-spring-2025.md) [\[Course notes (webpage)\]](/notes/number-theory/)
+- _Introduction to Abstract Algebra._ Spring 2026 [\[Course page\]](/courses/algebra-jhu-spring-2026/)
+- _Elementary Number Theory._ Fall 2025 [\[Course page\]](/courses/elementary-number-theory-jhu-fall-2025/) [\[Course notes (webpage)\]](/notes/number-theory/)
+- _Elementary Number Theory._ Spring 2025 [\[Course page\]](/courses/elementary-number-theory-jhu-spring-2025/) [\[Course notes (webpage)\]](/notes/number-theory/)
 - _Introduction to Proofs._ Fall 2024
 
 ### Carnegie Mellon University
 
-- _Introduction to Homotopy Type Theory._ Carnegie Mellon University, 80-518/80-818, Spring 2018. [\[Course Page\]](cmu-intro-to-hott-2018.md) [\[Course notes\]](hott_intro_cmu.pdf)
+- _Introduction to Homotopy Type Theory._ Carnegie Mellon University, 80-518/80-818, Spring 2018. [\[Course Page\]](/courses/intro-to-hott-cmu-spring-2018/) [\[Course notes\]](hott_intro_cmu.pdf)
 
 ### Online
 
