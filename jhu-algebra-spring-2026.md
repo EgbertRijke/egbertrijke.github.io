@@ -95,13 +95,15 @@ The material tested on the midterm consists of lectures 1 through 14, up to and 
 
 **Lecture 17, April 1 2026, Counting orbits**
 
-**Lecture 18, April 6 2026, Finite rotation groups**
+**Lecture 18, April 6 2026, Counting orbits**
 
-**Lecture 19, April 8 2026, The Sylow theorems**
+**Lecture 19, April 8 2026, Finite rotation groups**
 
-**Lecture 20, April 13 2026, Finitely generated abelian groups**
+Homework for weeks 10 and 11: 18.1, 18.2, 18.3, 18.4, 18.5.
 
-**Lecture 21, April 15 2026, Row and column operations**
+**Lecture 20, April 13 2026, Finite rotation groups**
+
+**Lecture 21, April 15 2026, The Sylow theorems**
 
 **Lecture 22, April 20 2026, Automorphisms**
 
