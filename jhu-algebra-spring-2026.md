@@ -105,8 +105,11 @@ Homework for weeks 10 and 11: 18.1, 18.2, 18.3, 18.4, 18.5.
 
 **Lecture 21, April 15 2026, The Sylow theorems**
 
-**Lecture 22, April 20 2026, Automorphisms**
+**Lecture 22, April 20 2026, The classification of groups of order 12**
 
-**Lecture 23, April 22 2026, The Euclidean group**
+**Lecture 23, April 22 2026, Examples of counting with group theory**
 
 <span style="color: red;">**Final exam, April 27 2026**</span>
+
+[\[Practice exam\]](jhu-401-algebra-spring-2026-practice-final.pdf)
+[\[Final exam\]](jhu-401-agebra-spring-2026-final.pdf)
