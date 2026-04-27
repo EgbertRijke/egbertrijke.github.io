@@ -112,4 +112,4 @@ Homework for weeks 10 and 11: 18.1, 18.2, 18.3, 18.4, 18.5.
 <span style="color: red;">**Final exam, April 27 2026**</span>
 
 [\[Practice exam\]](jhu-401-algebra-spring-2026-practice-final.pdf)
-[\[Final exam\]](jhu-401-agebra-spring-2026-final.pdf)
+[\[Final exam\]](jhu-401-algebra-spring-2026-final.pdf)
