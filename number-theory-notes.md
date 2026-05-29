@@ -14,7 +14,7 @@ keywords:
 
 These are course notes for the course 304 Elementary Number Theory, which I taught at Johns Hopkins University in the [Spring 2025](jhu-number-theory-spring-2025.md) and [Fall 2025](jhu-number-theory-fall-2025.md) semesters.
 
-[\[Download the course notes (pdf, 342 pages)\]](elementary-number-theory-fall.pdf)
+[\[Download the course notes (pdf, 479 pages)\]](elementary-number-theory-fall.pdf)
 
 <img src="/elementary-number-theory-notes-front-page.png"
      alt="Front page of the Elementary Number Theory course notes by Egbert Rijke"
@@ -23,14 +23,14 @@ These are course notes for the course 304 Elementary Number Theory, which I taug
 ## Basic information
 
 - Author: Egbert Rijke
-- Title: Elementary Number Theory
-- Year: 2025
-- Last updated: November 30, 2025
-- Pages: 342
-- Exercises: 246
+- Title: The Great Story of Numbers
+- Year: 2026
+- Last updated: May 29, 2026
+- Pages: 479
+- Exercises: 284
 - Type: Lecture notes
 - Level: Upper-division undergraduate
-- Prerequisites: None
+- Prerequisites: None; Suitable for non-math majors
 - Language: English
 - Institution: Johns Hopkins University
 - Description: Freely available notes for an undergraduate course on number theory, with an emphasis on proof-writing, history, structural thinking, the central theorems of elementary number theory, and an extensive set of exercises carefully categorized by skill level.
