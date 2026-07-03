@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 @media screen and (min-width: 800px) {
-  .page-content .wrapper {
+  .page-content .markdown-body {
     max-width: 50ch !important; /* Made it even narrower for an obvious test */
     background-color: lightblue !important; /* Temporary visual check */
     margin-left: auto !important;
