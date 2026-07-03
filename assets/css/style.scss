@@ -5,10 +5,9 @@
 
 @media screen and (min-width: 800px) {
   .page-content .markdown-body {
-    max-width: 50ch !important; /* Made it even narrower for an obvious test */
-    background-color: lightblue !important; /* Temporary visual check */
-    margin-left: auto !important;
-    margin-right: auto !important;
+    max-width: 70ch;
+    margin-left: auto;
+    margin-right: auto;
   }
 }
 
