@@ -66,6 +66,7 @@ Visit the [publisher's webpage](https://www.cambridge.org/us/universitypress/sub
 
 ### Johns Hopkins University
 
+- _Foundational Mathematics of Artificial Intelligence._ Summer 2026. [JHU Pre-College Summer School](https://summer.jhu.edu/pre-college-students/)
 - _Introduction to Abstract Algebra._ Spring 2026 [\[Course page\]](/courses/algebra-jhu-spring-2026/)
 - _Elementary Number Theory._ Fall 2025 [\[Course page\]](/courses/elementary-number-theory-jhu-fall-2025/) [\[Course notes (webpage)\]](/notes/number-theory/)
 - _Elementary Number Theory._ Spring 2025 [\[Course page\]](/courses/elementary-number-theory-jhu-spring-2025/) [\[Course notes (webpage)\]](/notes/number-theory/)
