@@ -3,8 +3,12 @@
 
 @import "{{ site.theme }}";
 
+$cornflowerblue: #41B0E4;
+
 .markdown-body {
   font-family: "Alegreya", Georgia, "Times New Roman", serif;
+  font-size: 1.08rem;
+  line-height: 1.55;
 }
 
 .markdown-body h1,
@@ -26,23 +30,19 @@
     "Liberation Mono", monospace;
 }
 
-.markdown-body {
-  font-size: 1.08rem;
-  line-height: 1.55;
-}
-
-$cornflowerblue: #41B0E4;
-
-.markdown-body a {
+/* Ordinary links in page content */
+.markdown-body a:not(.brand-button),
+.markdown-body a:not(.brand-button):visited {
   color: $cornflowerblue;
 }
 
-.markdown-body a:hover,
-.markdown-body a:focus {
-  color: darken($cornflowerblue, 12%);
+.markdown-body a:not(.brand-button):hover,
+.markdown-body a:not(.brand-button):focus {
+  color: $cornflowerblue;
   text-decoration: underline;
 }
 
+/* Prominent call-to-action links */
 .brand-button {
   display: inline-block;
   padding: 0.45em 0.8em;
@@ -55,6 +55,6 @@ $cornflowerblue: #41B0E4;
 .brand-button:hover,
 .brand-button:focus {
   color: #fff;
-  background: darken($cornflowerblue, 10%);
+  background: $cornflowerblue;
   text-decoration: none;
 }
