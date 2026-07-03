@@ -7,7 +7,6 @@
   font-family: "Alegreya", Georgia, "Times New Roman", serif;
 }
 
-/* Primer gives some elements their own font settings. */
 .markdown-body h1,
 .markdown-body h2,
 .markdown-body h3,
@@ -19,7 +18,6 @@
   font-family: "Alegreya", Georgia, "Times New Roman", serif;
 }
 
-/* Keep code genuinely monospaced. */
 .markdown-body code,
 .markdown-body pre,
 .markdown-body kbd,
@@ -31,4 +29,32 @@
 .markdown-body {
   font-size: 1.08rem;
   line-height: 1.55;
+}
+
+$cornflowerblue: #41B0E4;
+
+.markdown-body a {
+  color: $cornflowerblue;
+}
+
+.markdown-body a:hover,
+.markdown-body a:focus {
+  color: darken($cornflowerblue, 12%);
+  text-decoration: underline;
+}
+
+.brand-button {
+  display: inline-block;
+  padding: 0.45em 0.8em;
+  color: #fff;
+  background: $cornflowerblue;
+  border-radius: 0.35em;
+  text-decoration: none;
+}
+
+.brand-button:hover,
+.brand-button:focus {
+  color: #fff;
+  background: darken($cornflowerblue, 10%);
+  text-decoration: none;
 }
