@@ -217,13 +217,13 @@
   - Mersenne Primes
   - Exercises
 - Conjectures in Elementary Number Theory
-- Conjectures About the Infinitude of Certain Classes of Primes
-- Conjectures About Exceptional Primes
-- Conjectures About Gaps Between the Primes
-- Conjectures About Conditions for Primality
-- Conjectures About Prime Decompositions
-- Conjectures About Arithmetic Functions
-- Conjectures About Diophantine Problems
-- Conjectures About Representations of Numbers
-- Conjectures About Iterative and Dynamical Processes
+  - Conjectures About the Infinitude of Certain Classes of Primes
+  - Conjectures About Exceptional Primes
+  - Conjectures About Gaps Between the Primes
+  - Conjectures About Conditions for Primality
+  - Conjectures About Prime Decompositions
+  - Conjectures About Arithmetic Functions
+  - Conjectures About Diophantine Problems
+  - Conjectures About Representations of Numbers
+  - Conjectures About Iterative and Dynamical Processes
 - References
