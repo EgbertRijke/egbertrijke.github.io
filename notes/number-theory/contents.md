@@ -1,0 +1,229 @@
+# Table of contents
+
+- Introduction
+
+### The Nature of Numbers
+
+- The Nature of Mathematical Inquiry
+  - Brief Remarks on the History of Number Theory
+    - The Ancient Greek Scholars
+    - Mathematics, Astronomy, and Poetry in Ancient India
+    - Pierre de Fermat
+    - Leonhard Euler
+    - Johannes Carl Friedrich Gauss
+    - Contemporary Mathematics
+  - The Concept of Number Through History
+  - Mathematical Language
+- Mathematical Induction
+  - Recursion and Induction
+  - Addition of Natural Numbers
+  - Arithmetic of Natural Numbers
+  - Relations on the Natural Numbers
+  - Finite Sums and Products
+  - Hemachandra's Counting Problem
+  - Exercises
+- Counting
+  - Hume's Principle
+  - Equivalent Ways of Defining Bijections
+  - Counting Bijections
+  - Counting Subsets
+  - The Binomial Theorem
+  - The Inclusion–Exclusion Principle
+  - The Stars-and-Bars Problem
+  - Exercises
+- The Integers
+  - Cyclic Sets
+  - Maps Preserving Cyclic Structure
+  - A Structural Definition of the Integers
+  - Constructing the Integers from the Natural Numbers
+  - Integer Arithmetic
+  - Exercises
+- Notation for Numbers
+  - Some Remarks on the History of Written Numbers
+  - The Well-Ordering Principle of the Natural Numbers
+  - Euclidean Division
+  - The Representability Theorem
+  - Combinatorial Applications
+  - Exercises
+- Divisibility
+  - The Condition of Divisibility
+  - The Ordering by Divisibility
+  - Ideals of Integers
+  - Exercises
+- Linear Diophantine Equations
+  - Greatest Common Divisors
+  - Euclid's Algorithm
+  - Linear Diophantine Equations in Multiple Variables
+  - Āryabhaṭa's Computations of the Positions of Planets
+  - Exercises
+- Congruences
+  - The Congruence Relations
+  - Equivalence Relations
+  - Equivalence Classes and Residue Systems
+  - The Integers Modulo n
+  - The Multiplicative Order of an Integer Modulo n
+  - Exercises
+- Systems of Linear Congruences
+  - Solving Linear Congruences
+  - Solving Multiple Linear Congruences Simultaneously
+  - The Chinese Remainder Theorem
+  - A Method Suggested by Gauss
+  - Exercises
+- The Rational Numbers
+  - Integer Fractions
+  - The Irrationality of Square Roots
+  - Continued Fractions
+  - Farey's Series of Fractions
+  - A Structural Definition of the Rational Numbers
+  - Exercises
+- Pythagorean Triples
+  - The Pythagorean Theorem
+  - Euclid's Parametrization of the Pythagorean Triples
+  - Rational Points on the Unit Circle
+  - Vieta Jumping
+  - The Tree of Primitive Pythagorean Triples
+  - Squares in Arithmetic Progressions
+  - Exercises
+- Infinite Descent
+  - The Method of Infinite Descent
+  - The Area of a Pythagorean Triangle is not a Square
+  - The Unsolvability of x⁴ + y⁴ = z⁴
+  - Aubry's Theorem
+  - The Nonexistence of Four Squares in an Arithmetic Progression
+  - The Congruent Number Problem
+  - Exercises
+
+### The Multiplicative Nature of Numbers
+
+- Prime Numbers
+  - The Fundamental Theorem of Arithmetic
+  - The Infinitude of Primes
+    - Euclid's Proof
+    - Saidak's Proof
+    - Furstenberg's Proof, Following Cass–Wildenberg
+    - Erdős's Proof
+    - A Proof via the Stars-and-Bars Method
+  - Fermat Primes
+  - Legendre's Formula and Kummer's Theorem
+  - Bertrand's Postulate
+  - Exercises
+- Multiplicative Functions
+  - Perfect Numbers
+  - Euler's Totient Function
+  - Multiplicative Functions
+  - The Möbius Function
+  - Dirichlet Convolution
+  - Dirichlet Inverses
+  - Exercises
+- Strong Divisibility Sequences
+  - Lucas Sequences
+  - The Rank of Apparition
+  - Primitive Sequences
+  - LCM-sequences
+  - The Lifting the Exponent Lemma
+  - Exercises
+- Cyclic Counting and Prime Divisibility
+  - Hemachandra's Counting Problem on Cycles
+  - The Prime–Fixed Point Congruence
+  - The Orbit–Counting Formula
+  - Cyclic Coloring
+  - Cyclic Integer Partitions
+  - Cyclic Lists
+  - Cyclic Trees
+  - Exercises
+- Fermat's Little Theorem and its Consequences
+  - Fermat's Little Theorem
+  - Euler's Theorem
+  - Wilson's Theorem
+  - Lucas's Theorem
+  - Concerning Strong Divisibility Sequences
+  - The Quadratic Character of -1
+  - The Infinitude of Primes Congruent to 1 Modulo Powers of 2
+  - Exercises
+- Fermat's Two-Squares Theorem
+  - Numbers Representable as a Sum of Two Squares
+  - Euler's Proof by Infinite Descent
+  - Exercises
+- The Gaussian Integers
+  - Definition and Basic Properties of the Gaussian Integers
+  - Euclidean Division of Gaussian Integers
+  - The Greatest Common Divisor of Gaussian Integers
+  - Primes in the Gaussian Integers
+  - Fermat's Two-Square Theorem
+  - The Biquadratic Character of -1
+  - Exercises
+- Polynomials
+  - Polynomials with Abstract Coefficients
+  - The Factor Theorem
+  - Polynomial Congruences of Prime Moduli
+  - Lagrange's Interpolation Theorem
+  - Fixed Divisors of Integer Polynomials
+  - Exercises
+- Primitive Roots
+  - Counting Elements of a Given Order Modulo a Prime
+  - Primitive Roots
+  - The Discrete Logarithm
+  - A Criterion for Congruences of Degree n
+  - Exercises
+- The Moduli with Primitive Roots
+  - Primitive Roots Modulo Odd Prime Powers
+  - The Complete Characterization of Moduli with Primitive Roots
+  - Carmichael's Function
+- Polynomial Congruences
+  - Polynomial Congruences of Composite Moduli
+  - Derivatives of Polynomials
+  - Hensel's Lemma
+  - The Elementary Symmetric Polynomials
+  - Reduced Polynomials Modulo a Prime
+- Divisibility and Irreducebility of Polynomials
+  - Primitive Polynomials and Gauss's Lemma
+  - Euclid's Algorithm for Polynomials
+  - Irreducible Polynomials
+  - Eisenstein's Criterion
+  - Exercises
+- Cyclotomic Polynomials
+  - The Primitive Factors of xⁿ-1
+  - The Möbius Inversion Formula for the Cyclotomic Polynomials
+  - Irreducibility of the Cyclotomic Polynomials
+  - Zsigmondy's Theorem
+  - The Infinitude of Primes Congruent to 1 Modulo n
+  - Vantieghem's Theorem
+  - Exercises
+- Integer Factorizations of Polynomial Values
+  - The Reducibility of xⁿ-a
+  - Aurifeuillean Factorizations
+  - Obstructions to the Infinitude of Primes in Lucas Sequences
+
+### The Arithmetic of Quadratic Forms
+
+- Quadratic Residues
+  - Quadratic Congruences
+  - Quadratic Residues
+  - Legendre Symbols
+  - Euler's Criterion
+  - Euler's Prime-Generating Polynomial
+  - Exercises
+- Quadratic Reciprocity
+  - The Quadratic Character of 2
+  - The Statement of Quadratic Reciprocity
+  - Gauss's Lemma
+  - Eisenstein's Proof
+  - Exercises
+- Primality Testing
+  - Pépin's Primality Test for the Fermat Numbers
+  - The Carmichael Numbers
+  - The Lucas–Lehmer Primality Test
+  - Pocklington's Criteria
+  - Mersenne Primes
+  - Exercises
+- Conjectures in Elementary Number Theory
+- Conjectures About the Infinitude of Certain Classes of Primes
+- Conjectures About Exceptional Primes
+- Conjectures About Gaps Between the Primes
+- Conjectures About Conditions for Primality
+- Conjectures About Prime Decompositions
+- Conjectures About Arithmetic Functions
+- Conjectures About Diophantine Problems
+- Conjectures About Representations of Numbers
+- Conjectures About Iterative and Dynamical Processes
+- References

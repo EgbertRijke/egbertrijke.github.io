@@ -1,0 +1,476 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>The Great Story of Numbers | Egbert Rijke</title>
+<meta name="generator" content="Jekyll v3.10.0" />
+<meta property="og:title" content="The Great Story of Numbers" />
+<meta name="author" content="Egbert Rijke" />
+<meta property="og:locale" content="en" />
+<meta name="description" content="Freely available undergraduate lecture notes in elementary number theory by Egbert Rijke, with an emphasis on proof-writing, history, structural thinking, the central theorems of elementary number theory, and an extensive set of exercises carefully categorized by skill level." />
+<meta property="og:description" content="Freely available undergraduate lecture notes in elementary number theory by Egbert Rijke, with an emphasis on proof-writing, history, structural thinking, the central theorems of elementary number theory, and an extensive set of exercises carefully categorized by skill level." />
+<link rel="canonical" href="https://egbertrijke.github.io/notes/number-theory/" />
+<meta property="og:url" content="https://egbertrijke.github.io/notes/number-theory/" />
+<meta property="og:site_name" content="Egbert Rijke" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="The Great Story of Numbers" />
+<meta name="twitter:site" content="@EgbertRijke" />
+<meta name="twitter:creator" content="@Egbert Rijke" />
+<meta name="google-site-verification" content="aawQMrJgjxLKDsVFIetXRMV3j0CV7sODZAXKx-PlIF8" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","author":{"@type":"Person","name":"Egbert Rijke","url":"https://egbertrijke.github.io"},"description":"Freely available undergraduate lecture notes in elementary number theory by Egbert Rijke, with an emphasis on proof-writing, history, structural thinking, the central theorems of elementary number theory, and an extensive set of exercises carefully categorized by skill level.","headline":"The Great Story of Numbers","url":"https://egbertrijke.github.io/notes/number-theory/"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=c5791af8ca0f1a437fda0b3e31faad6cebfa4516">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<link
+  href="https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap"
+  rel="stylesheet">
+
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="https://egbertrijke.github.io/">Egbert Rijke</a></h1>
+      
+
+      <!-- Source: number-theory/site/landing.md. Generated copies must not be edited. -->
+
+<h1 id="the-great-story-of-numbers">The Great Story of Numbers</h1>
+
+<p>These are course notes for the course 304 Elementary Number Theory, which I taught at Johns Hopkins University in the <a href="/courses/elementary-number-theory-jhu-spring-2025/">Spring 2025</a> and <a href="/courses/elementary-number-theory-jhu-fall-2025/">Fall 2025</a> semesters.</p>
+
+<link rel="stylesheet" href="/notes/number-theory/book.css" />
+
+<div class="book-editions" aria-label="Download an edition">
+<div class="book-edition">
+<a class="book-cover" href="/notes/number-theory/number-theory.pdf">
+<img src="/notes/number-theory/number-theory.png" alt="Download Complete book — The Great Story of Numbers (PDF)" width="773" height="1000" />
+<span>Complete book</span></a>
+<a class="book-canvas" href="/notes/number-theory/number-theory-ally.pdf">Canvas version</a>
+</div>
+<div class="book-edition">
+<a class="book-cover" href="/notes/number-theory/number-theory-volume-1.pdf">
+<img src="/notes/number-theory/number-theory-volume-1.png" alt="Download Volume 1 — The Great Story of Numbers (PDF)" width="773" height="1000" />
+<span>Volume 1</span></a>
+<a class="book-canvas" href="/notes/number-theory/number-theory-volume-1-ally.pdf">Canvas version</a>
+</div>
+<div class="book-edition">
+<a class="book-cover" href="/notes/number-theory/number-theory-volume-2.pdf">
+<img src="/notes/number-theory/number-theory-volume-2.png" alt="Download Volume 2 — The Great Story of Numbers (PDF)" width="773" height="1000" />
+<span>Volume 2</span></a>
+<a class="book-canvas" href="/notes/number-theory/number-theory-volume-2-ally.pdf">Canvas version</a>
+</div>
+<div class="book-edition">
+<a class="book-cover" href="/notes/number-theory/number-theory-volume-3.pdf">
+<img src="/notes/number-theory/number-theory-volume-3.png" alt="Download Volume 3 — The Great Story of Numbers (PDF)" width="773" height="1000" />
+<span>Volume 3</span></a>
+<a class="book-canvas" href="/notes/number-theory/number-theory-volume-3-ally.pdf">Canvas version</a>
+</div>
+</div>
+
+<div class="book-downloads">
+<table>
+<caption>Download the complete book or an individual volume</caption>
+<thead><tr><th scope="col">Edition</th><th scope="col">Main version</th>
+<th scope="col">Canvas / Ally</th></tr></thead>
+<tbody>
+<tr><th scope="row">Complete book</th><td><a href="/notes/number-theory/number-theory.pdf">PDF</a> <small>(443 pages; 19.4 MiB)</small></td><td><a href="/notes/number-theory/number-theory-ally.pdf">PDF</a> <small>(443 pages; 15.6 MiB)</small></td></tr>
+<tr><th scope="row">Volume 1</th><td><a href="/notes/number-theory/number-theory-volume-1.pdf">PDF</a> <small>(252 pages; 12.6 MiB)</small></td><td><a href="/notes/number-theory/number-theory-volume-1-ally.pdf">PDF</a> <small>(252 pages; 11.0 MiB)</small></td></tr>
+<tr><th scope="row">Volume 2</th><td><a href="/notes/number-theory/number-theory-volume-2.pdf">PDF</a> <small>(204 pages; 6.2 MiB)</small></td><td><a href="/notes/number-theory/number-theory-volume-2-ally.pdf">PDF</a> <small>(204 pages; 4.4 MiB)</small></td></tr>
+<tr><th scope="row">Volume 3</th><td><a href="/notes/number-theory/number-theory-volume-3.pdf">PDF</a> <small>(54 pages; 0.8 MiB)</small></td><td><a href="/notes/number-theory/number-theory-volume-3-ally.pdf">PDF</a> <small>(54 pages; 0.5 MiB)</small></td></tr>
+</tbody></table>
+</div>
+
+<p>The main versions use the book’s PDF 2.0 and MathML configuration.
+The Canvas / Ally versions use its PDF 1.7 compatibility configuration.
+For links between volumes when reading offline, download all three volumes
+of the same version into one folder and keep their filenames unchanged.
+Support for links between PDF files varies between viewers.</p>
+
+<h2 id="basic-information">Basic information</h2>
+
+<ul>
+  <li>Author: Egbert Rijke</li>
+  <li>Title: The Great Story of Numbers</li>
+  <li>Year: 2026</li>
+  <li>Type: Lecture notes</li>
+  <li>Level: Upper-division undergraduate</li>
+  <li>Prerequisites: None; suitable for non-math majors</li>
+  <li>Language: English</li>
+  <li>Institution: Johns Hopkins University</li>
+</ul>
+
+<p>Current working drafts. Last built: <strong>2026-10-19 16:19 UTC</strong>.</p>
+
+<p><a href="/notes/number-theory/build.json">Build details and PDF checksums</a>.</p>
+
+<h2 id="overview-of-the-course">Overview of the Course</h2>
+
+<p>Elementary Number Theory is a designated “Introduction to Proofs” course at the Johns Hopkins Mathematics Department. The course is taken by students with a variety of majors, including mathematics, computer science, chemistry, history, or music.</p>
+
+<p>The beginning of the course focuses on proof writing, and covers topics such as induction, unique existence proofs, bijections, counting with bijections, and the well-ordering theorem. These topics are approached from three angles:</p>
+<ul>
+  <li>Skill development: The course gives concrete guidance on abstract reasoning, how to write a proof with clarity, and recognizing when a particular proof technique is appropriate.</li>
+  <li>History: By answering the question “How did mathematicians of the past think about certain phenomena?”, and “Have these concepts always been like that”, we make thinking about thinking about numbers more tangible.</li>
+  <li>Structural thinking: By articulating what kinds of structure we are thinking about, the student learns to extract the essence of a mathematical problem.</li>
+</ul>
+
+<p>The course then develops topics such as divisibility, greatest common divisors, rational numbers, Pythagorean triples, and infinite descent. In the historical development, these lectures take us from ancient mathematics to the time of Fermat. The purpose here is to build a solid foundation in proof-writing skills, before moving on to the more typical number-theoretic topics. After this foundational part of the course, we cover topics such as modular arithmetic, the Chinese Remainder Theorem, primes, multiplicative functions, Fermat’s Little Theorem, Fermat’s Two-Squares theorem, polynomials, primitive roots, quadratic residues, and quadratic reciprocity.</p>
+
+<p>The notes contain extensive references to historical aspects of number theory. I have made use of many sources to learn about the history of number theory, particularly Andre Weil’s <em>Number Theory: An Approach Through History from Hammurapi to Legendre</em> and Carl Friedrich Gauss’s <em>Disquisitiones Arithmeticae</em>. I have also read historical sources such as Fibonacci’s <em>Liber Quadratorum</em>, the works of Leonhard Euler, and I have benefitted from many online sources. In particular, the Internet Archive hosts scans of many original texts in number theory. Finally, I have learned from many textbooks in number theory, including LeVeque’s <em>Topics in Number Theory</em>, Hardy and Wright’s <em>An Introduction to the Theory of Numbers</em>, Silverman’s <em>A Friendly Introduction to Number Theory</em>, and many more. Furthermore, Keith Conrad’s <a href="https://kconrad.math.uconn.edu/blurbs/">various notes</a> on topics in number theory have been invaluable.</p>
+
+<h2 id="comments-on-the-pedagogy">Comments on the Pedagogy</h2>
+
+<p>Each chapter corresponds roughly to one lecture, although many chapters cover optional topics. At the end of each chapter, there is a set of exercises which are categorized along three tiers: starter exercises, routine-building exercises, and challenge exercises. The starter exercises are meant to test the student’s understanding of the central concept of a chapter, or their ability to make the essential computations with that concept. The routine-building exercises are designed to develop the student’s routine with a subject. A student might find them challenging at first, while they are still learning the subject, but they are designed so that most students attempting these will eventually find their solutions. These exercises are designed to bring the student to the intended level of skill for the course. The challenge exercises are designed to be harder, and require more creative solutions. Some of them are modified versions of contest problems. A weekly homework assignment consists typically of multiple routine-building exercises and one challenge problem.</p>
+
+<p>For the pedagogical development of this course, I have made use of the textbook <em>Teaching for Quality Learning at University</em> by Biggs and Tang. While not specifically about mathematics education, this book offers valuable advice on how to foster a productive and inspiring learning environment for students.</p>
+
+<h2 id="table-of-contents">Table of Contents</h2>
+
+<p><a href="/notes/number-theory/contents.md">Download this table of contents as Markdown</a>.</p>
+
+<ul>
+  <li>Introduction</li>
+</ul>
+
+<h3 id="the-nature-of-numbers">The Nature of Numbers</h3>
+
+<ul>
+  <li>The Nature of Mathematical Inquiry
+    <ul>
+      <li>Brief Remarks on the History of Number Theory
+        <ul>
+          <li>The Ancient Greek Scholars</li>
+          <li>Mathematics, Astronomy, and Poetry in Ancient India</li>
+          <li>Pierre de Fermat</li>
+          <li>Leonhard Euler</li>
+          <li>Johannes Carl Friedrich Gauss</li>
+          <li>Contemporary Mathematics</li>
+        </ul>
+      </li>
+      <li>The Concept of Number Through History</li>
+      <li>Mathematical Language</li>
+    </ul>
+  </li>
+  <li>Mathematical Induction
+    <ul>
+      <li>Recursion and Induction</li>
+      <li>Addition of Natural Numbers</li>
+      <li>Arithmetic of Natural Numbers</li>
+      <li>Relations on the Natural Numbers</li>
+      <li>Finite Sums and Products</li>
+      <li>Hemachandra’s Counting Problem</li>
+      <li>Exercises</li>
+    </ul>
+  </li>
+  <li>Counting
+    <ul>
+      <li>Hume’s Principle</li>
+      <li>Equivalent Ways of Defining Bijections</li>
+      <li>Counting Bijections</li>
+      <li>Counting Subsets</li>
+      <li>The Binomial Theorem</li>
+      <li>The Inclusion–Exclusion Principle</li>
+      <li>The Stars-and-Bars Problem</li>
+      <li>Exercises</li>
+    </ul>
+  </li>
+  <li>The Integers
+    <ul>
+      <li>Cyclic Sets</li>
+      <li>Maps Preserving Cyclic Structure</li>
+      <li>A Structural Definition of the Integers</li>
+      <li>Constructing the Integers from the Natural Numbers</li>
+      <li>Integer Arithmetic</li>
+      <li>Exercises</li>
+    </ul>
+  </li>
+  <li>Notation for Numbers
+    <ul>
+      <li>Some Remarks on the History of Written Numbers</li>
+      <li>The Well-Ordering Principle of the Natural Numbers</li>
+      <li>Euclidean Division</li>
+      <li>The Representability Theorem</li>
+      <li>Combinatorial Applications</li>
+      <li>Exercises</li>
+    </ul>
+  </li>
+  <li>Divisibility
+    <ul>
+      <li>The Condition of Divisibility</li>
+      <li>The Ordering by Divisibility</li>
+      <li>Ideals of Integers</li>
+      <li>Exercises</li>
+    </ul>
+  </li>
+  <li>Linear Diophantine Equations
+    <ul>
+      <li>Greatest Common Divisors</li>
+      <li>Euclid’s Algorithm</li>
+      <li>Linear Diophantine Equations in Multiple Variables</li>
+      <li>Āryabhaṭa’s Computations of the Positions of Planets</li>
+      <li>Exercises</li>
+    </ul>
+  </li>
+  <li>Congruences
+    <ul>
+      <li>The Congruence Relations</li>
+      <li>Equivalence Relations</li>
+      <li>Equivalence Classes and Residue Systems</li>
+      <li>The Integers Modulo n</li>
+      <li>The Multiplicative Order of an Integer Modulo n</li>
+      <li>Exercises</li>
+    </ul>
+  </li>
+  <li>Systems of Linear Congruences
+    <ul>
+      <li>Solving Linear Congruences</li>
+      <li>Solving Multiple Linear Congruences Simultaneously</li>
+      <li>The Chinese Remainder Theorem</li>
+      <li>A Method Suggested by Gauss</li>
+      <li>Exercises</li>
+    </ul>
+  </li>
+  <li>The Rational Numbers
+    <ul>
+      <li>Integer Fractions</li>
+      <li>The Irrationality of Square Roots</li>
+      <li>Continued Fractions</li>
+      <li>Farey’s Series of Fractions</li>
+      <li>A Structural Definition of the Rational Numbers</li>
+      <li>Exercises</li>
+    </ul>
+  </li>
+  <li>Pythagorean Triples
+    <ul>
+      <li>The Pythagorean Theorem</li>
+      <li>Euclid’s Parametrization of the Pythagorean Triples</li>
+      <li>Rational Points on the Unit Circle</li>
+      <li>Vieta Jumping</li>
+      <li>The Tree of Primitive Pythagorean Triples</li>
+      <li>Squares in Arithmetic Progressions</li>
+      <li>Exercises</li>
+    </ul>
+  </li>
+  <li>Infinite Descent
+    <ul>
+      <li>The Method of Infinite Descent</li>
+      <li>The Area of a Pythagorean Triangle is not a Square</li>
+      <li>The Unsolvability of x⁴ + y⁴ = z⁴</li>
+      <li>Aubry’s Theorem</li>
+      <li>The Nonexistence of Four Squares in an Arithmetic Progression</li>
+      <li>The Congruent Number Problem</li>
+      <li>Exercises</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="the-multiplicative-nature-of-numbers">The Multiplicative Nature of Numbers</h3>
+
+<ul>
+  <li>Prime Numbers
+    <ul>
+      <li>The Fundamental Theorem of Arithmetic</li>
+      <li>The Infinitude of Primes
+        <ul>
+          <li>Euclid’s Proof</li>
+          <li>Saidak’s Proof</li>
+          <li>Furstenberg’s Proof, Following Cass–Wildenberg</li>
+          <li>Erdős’s Proof</li>
+          <li>A Proof via the Stars-and-Bars Method</li>
+        </ul>
+      </li>
+      <li>Fermat Primes</li>
+      <li>Legendre’s Formula and Kummer’s Theorem</li>
+      <li>Bertrand’s Postulate</li>
+      <li>Exercises</li>
+    </ul>
+  </li>
+  <li>Multiplicative Functions
+    <ul>
+      <li>Perfect Numbers</li>
+      <li>Euler’s Totient Function</li>
+      <li>Multiplicative Functions</li>
+      <li>The Möbius Function</li>
+      <li>Dirichlet Convolution</li>
+      <li>Dirichlet Inverses</li>
+      <li>Exercises</li>
+    </ul>
+  </li>
+  <li>Strong Divisibility Sequences
+    <ul>
+      <li>Lucas Sequences</li>
+      <li>The Rank of Apparition</li>
+      <li>Primitive Sequences</li>
+      <li>LCM-sequences</li>
+      <li>The Lifting the Exponent Lemma</li>
+      <li>Exercises</li>
+    </ul>
+  </li>
+  <li>Cyclic Counting and Prime Divisibility
+    <ul>
+      <li>Hemachandra’s Counting Problem on Cycles</li>
+      <li>The Prime–Fixed Point Congruence</li>
+      <li>The Orbit–Counting Formula</li>
+      <li>Cyclic Coloring</li>
+      <li>Cyclic Integer Partitions</li>
+      <li>Cyclic Lists</li>
+      <li>Cyclic Trees</li>
+      <li>Exercises</li>
+    </ul>
+  </li>
+  <li>Fermat’s Little Theorem and its Consequences
+    <ul>
+      <li>Fermat’s Little Theorem</li>
+      <li>Euler’s Theorem</li>
+      <li>Wilson’s Theorem</li>
+      <li>Lucas’s Theorem</li>
+      <li>Concerning Strong Divisibility Sequences</li>
+      <li>The Quadratic Character of -1</li>
+      <li>The Infinitude of Primes Congruent to 1 Modulo Powers of 2</li>
+      <li>Exercises</li>
+    </ul>
+  </li>
+  <li>Fermat’s Two-Squares Theorem
+    <ul>
+      <li>Numbers Representable as a Sum of Two Squares</li>
+      <li>Euler’s Proof by Infinite Descent</li>
+      <li>Exercises</li>
+    </ul>
+  </li>
+  <li>The Gaussian Integers
+    <ul>
+      <li>Definition and Basic Properties of the Gaussian Integers</li>
+      <li>Euclidean Division of Gaussian Integers</li>
+      <li>The Greatest Common Divisor of Gaussian Integers</li>
+      <li>Primes in the Gaussian Integers</li>
+      <li>Fermat’s Two-Square Theorem</li>
+      <li>The Biquadratic Character of -1</li>
+      <li>Exercises</li>
+    </ul>
+  </li>
+  <li>Polynomials
+    <ul>
+      <li>Polynomials with Abstract Coefficients</li>
+      <li>The Factor Theorem</li>
+      <li>Polynomial Congruences of Prime Moduli</li>
+      <li>Lagrange’s Interpolation Theorem</li>
+      <li>Fixed Divisors of Integer Polynomials</li>
+      <li>Exercises</li>
+    </ul>
+  </li>
+  <li>Primitive Roots
+    <ul>
+      <li>Counting Elements of a Given Order Modulo a Prime</li>
+      <li>Primitive Roots</li>
+      <li>The Discrete Logarithm</li>
+      <li>A Criterion for Congruences of Degree n</li>
+      <li>Exercises</li>
+    </ul>
+  </li>
+  <li>The Moduli with Primitive Roots
+    <ul>
+      <li>Primitive Roots Modulo Odd Prime Powers</li>
+      <li>The Complete Characterization of Moduli with Primitive Roots</li>
+      <li>Carmichael’s Function</li>
+    </ul>
+  </li>
+  <li>Polynomial Congruences
+    <ul>
+      <li>Polynomial Congruences of Composite Moduli</li>
+      <li>Derivatives of Polynomials</li>
+      <li>Hensel’s Lemma</li>
+      <li>The Elementary Symmetric Polynomials</li>
+      <li>Reduced Polynomials Modulo a Prime</li>
+    </ul>
+  </li>
+  <li>Divisibility and Irreducebility of Polynomials
+    <ul>
+      <li>Primitive Polynomials and Gauss’s Lemma</li>
+      <li>Euclid’s Algorithm for Polynomials</li>
+      <li>Irreducible Polynomials</li>
+      <li>Eisenstein’s Criterion</li>
+      <li>Exercises</li>
+    </ul>
+  </li>
+  <li>Cyclotomic Polynomials
+    <ul>
+      <li>The Primitive Factors of xⁿ-1</li>
+      <li>The Möbius Inversion Formula for the Cyclotomic Polynomials</li>
+      <li>Irreducibility of the Cyclotomic Polynomials</li>
+      <li>Zsigmondy’s Theorem</li>
+      <li>The Infinitude of Primes Congruent to 1 Modulo n</li>
+      <li>Vantieghem’s Theorem</li>
+      <li>Exercises</li>
+    </ul>
+  </li>
+  <li>Integer Factorizations of Polynomial Values
+    <ul>
+      <li>The Reducibility of xⁿ-a</li>
+      <li>Aurifeuillean Factorizations</li>
+      <li>Obstructions to the Infinitude of Primes in Lucas Sequences</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="the-arithmetic-of-quadratic-forms">The Arithmetic of Quadratic Forms</h3>
+
+<ul>
+  <li>Quadratic Residues
+    <ul>
+      <li>Quadratic Congruences</li>
+      <li>Quadratic Residues</li>
+      <li>Legendre Symbols</li>
+      <li>Euler’s Criterion</li>
+      <li>Euler’s Prime-Generating Polynomial</li>
+      <li>Exercises</li>
+    </ul>
+  </li>
+  <li>Quadratic Reciprocity
+    <ul>
+      <li>The Quadratic Character of 2</li>
+      <li>The Statement of Quadratic Reciprocity</li>
+      <li>Gauss’s Lemma</li>
+      <li>Eisenstein’s Proof</li>
+      <li>Exercises</li>
+    </ul>
+  </li>
+  <li>Primality Testing
+    <ul>
+      <li>Pépin’s Primality Test for the Fermat Numbers</li>
+      <li>The Carmichael Numbers</li>
+      <li>The Lucas–Lehmer Primality Test</li>
+      <li>Pocklington’s Criteria</li>
+      <li>Mersenne Primes</li>
+      <li>Exercises</li>
+    </ul>
+  </li>
+  <li>Conjectures in Elementary Number Theory</li>
+  <li>Conjectures About the Infinitude of Certain Classes of Primes</li>
+  <li>Conjectures About Exceptional Primes</li>
+  <li>Conjectures About Gaps Between the Primes</li>
+  <li>Conjectures About Conditions for Primality</li>
+  <li>Conjectures About Prime Decompositions</li>
+  <li>Conjectures About Arithmetic Functions</li>
+  <li>Conjectures About Diophantine Problems</li>
+  <li>Conjectures About Representations of Numbers</li>
+  <li>Conjectures About Iterative and Dynamical Processes</li>
+  <li>References</li>
+</ul>
+
+
+
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  </body>
+</html>
