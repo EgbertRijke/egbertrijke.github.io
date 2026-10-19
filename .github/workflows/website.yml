@@ -1,0 +1,53 @@
+name: Build and publish website
+
+on:
+  push:
+    branches: ['**']
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: personal-website-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  build-and-publish:
+    if: >-
+      vars.PUBLISH_WEBSITE == 'true' &&
+      github.ref == format('refs/heads/{0}', github.event.repository.default_branch)
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          persist-credentials: false
+      - name: Check publication configuration
+        env:
+          WEBSITE_DEPLOY_KEY: ${{ secrets.WEBSITE_DEPLOY_KEY }}
+          WEBSITE_DEPLOY_BRANCH: ${{ vars.WEBSITE_DEPLOY_BRANCH }}
+          SOURCE_BRANCH: ${{ github.event.repository.default_branch }}
+        run: |
+          test -n "$WEBSITE_DEPLOY_KEY" || { echo 'Set WEBSITE_DEPLOY_KEY.' >&2; exit 1; }
+          test -n "$WEBSITE_DEPLOY_BRANCH" || { echo 'Set WEBSITE_DEPLOY_BRANCH.' >&2; exit 1; }
+          test "$SOURCE_BRANCH" != "$WEBSITE_DEPLOY_BRANCH"
+      - name: Stage the website without the former book page
+        run: python3 scripts/prepare-website.py
+      - name: Build the website, excluding the book-owned page
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./_website-build-source
+          destination: ./_site
+      - name: Check out a disposable working tree for deployment
+        uses: actions/checkout@v6
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+          path: _deploy
+          ssh-key: ${{ secrets.WEBSITE_DEPLOY_KEY }}
+          persist-credentials: true
+      - name: Publish website files while preserving the book directory
+        env:
+          WEBSITE_DEPLOY_BRANCH: ${{ vars.WEBSITE_DEPLOY_BRANCH }}
+        run: >-
+          python3 scripts/publish-site.py --scope website
+          --build _site --checkout _deploy --branch "$WEBSITE_DEPLOY_BRANCH"

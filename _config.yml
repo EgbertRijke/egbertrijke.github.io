@@ -47,3 +47,5 @@ exclude:
   - README.md
   - LICENSE
   - .gitignore
+  - docs
+  - scripts
