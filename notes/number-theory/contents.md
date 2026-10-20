@@ -68,6 +68,7 @@
   - Solving Multiple Linear Congruences Simultaneously
   - The Chinese Remainder Theorem
   - A Method Suggested by Gauss
+  - Lifting Congruences
   - Exercises
 - The Rational Numbers
   - Integer Fractions
