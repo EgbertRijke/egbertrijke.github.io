@@ -60,7 +60,7 @@
   - The Congruence Relations
   - Equivalence Relations
   - Equivalence Classes and Residue Systems
-  - The Integers Modulo n
+  - Modular Arithmetic
   - The Multiplicative Order of an Integer Modulo n
   - Exercises
 - Systems of Linear Congruences
