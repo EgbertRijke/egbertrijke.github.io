@@ -124,7 +124,7 @@
   - The Lifting the Exponent Lemma
   - Exercises
 - Cyclic Counting and Prime Divisibility
-  - Hemachandra's Counting Problem on Cycles
+  - Hemachandra Wheels
   - The Prime–Fixed Point Congruence
   - The Orbit–Counting Formula
   - Cyclic Coloring
