@@ -123,9 +123,10 @@
   - LCM-sequences
   - The Lifting the Exponent Lemma
   - Exercises
-- Cyclic Counting and Prime Divisibility
+- Cyclic Counting
   - Hemachandra Wheels
   - The Prime–Fixed Point Congruence
+  - Lucas's Theorem
   - The Orbit–Counting Formula
   - Cyclic Coloring
   - Cyclic Integer Partitions
@@ -136,7 +137,6 @@
   - Fermat's Little Theorem
   - Euler's Theorem
   - Wilson's Theorem
-  - Lucas's Theorem
   - Concerning Strong Divisibility Sequences
   - The Quadratic Character of -1
   - The Infinitude of Primes Congruent to 1 Modulo Powers of 2
