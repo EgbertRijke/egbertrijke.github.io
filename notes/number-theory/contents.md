@@ -129,9 +129,6 @@
   - Lucas's Theorem
   - The Orbit–Counting Formula
   - Cyclic Coloring
-  - Cyclic Integer Partitions
-  - Cyclic Lists
-  - Cyclic Trees
   - Exercises
 - Fermat's Little Theorem and its Consequences
   - Fermat's Little Theorem
