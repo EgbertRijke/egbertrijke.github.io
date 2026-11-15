@@ -129,7 +129,7 @@
   - Lucas's Theorem
   - The Orbit–Counting Formula
   - Cyclic Coloring
-  - Cyclicity and Arithmetic Functions
+  - Arithmetic Functions of Orbits and Fixed Points
   - Exercises
 - Fermat's Little Theorem and its Consequences
   - Fermat's Little Theorem
