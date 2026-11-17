@@ -116,20 +116,13 @@
   - Dirichlet Convolution
   - Dirichlet Inverses
   - Exercises
-- Strong Divisibility Sequences
-  - Lucas Sequences
-  - The Rank of Apparition
-  - Primitive Sequences
-  - LCM-sequences
-  - The Lifting the Exponent Lemma
-  - Exercises
 - Cyclic Counting
   - Hemachandra Wheels
   - The Prime–Fixed Point Congruence
   - Lucas's Theorem
   - The Orbit–Counting Formula
-  - Cyclic Coloring
   - Arithmetic Functions of Orbits and Fixed Points
+  - Cyclic Coloring
   - Exercises
 - Fermat's Little Theorem and its Consequences
   - Fermat's Little Theorem
@@ -150,6 +143,13 @@
   - Primes in the Gaussian Integers
   - Fermat's Two-Square Theorem
   - The Biquadratic Character of -1
+  - Exercises
+- Strong Divisibility Sequences
+  - Lucas Sequences
+  - The Rank of Apparition
+  - Primitive Sequences
+  - LCM-sequences
+  - The Lifting the Exponent Lemma
   - Exercises
 - Polynomials
   - Polynomials with Abstract Coefficients
