@@ -121,8 +121,8 @@
   - The Prime–Fixed Point Congruence
   - Lucas's Theorem
   - The Orbit–Counting Formula
+  - The Divisor Sum of the Totient Function
   - Arithmetic Functions of Orbits and Fixed Points
-  - Cyclic Coloring
   - Exercises
 - Fermat's Little Theorem and its Consequences
   - Fermat's Little Theorem
